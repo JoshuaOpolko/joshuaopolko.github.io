@@ -25,7 +25,8 @@ Additionally, in case there are any issues with your Vive Wands, Valve Index Con
 1. Install Oculus and Revive by following the steps in the Installation section of their [github](https://github.com/LibreVR/Revive). 
 2. Purchase and install [Stormland](https://www.oculus.com/experiences/rift/1360938750683878/?ranking_trace=117254459210015_1360938750683878_SKYLINEWEB_15sLveFiOUbKwuHmu) from the [Oculus Store](https://www.oculus.com/).
 
-There is a bug with the Oculus software that results in the inability to install any software purchased from [Oculus](https://www.oculus.com/experiences/rift/). If you experience this bug you must set a new location for your Oculus saved games. After doing this the games will install and run normally. 
+#### Optional (Can't Install): 
+Some users encounter an Oculus bug that results in the inability to install titles purchased from [Oculus](https://www.oculus.com/experiences/rift/). This can be resolved by setting a different default location for your Oculus games. After doing this the games will install and run normally. 
 
 Ensure that the location you are saving your downloaded Oculus games to is not _C:\Program Files\Oculus_. 
 
@@ -33,11 +34,18 @@ To set a new location for your saved games, follow the steps in this [link](http
 
 Create a new folder for the game location or just put it in Documents or wherever you want other than _C:\Program Files\Oculus_.
 
-#### Configure:
+#### Configure Controllers:
 Control Bindings (Steam Workshop)
 Controller Type (SteamVR)
 Disable thumb-pad press binding
 
-Restart your progress (optional):
-In case you want to restart the game or have another person start their own progress, there really isn't a proper way to do it in the game.  To get around this, you can delete and recreate your save files locally, and then sync them to the cloud to restart the game.
+#### Restart your progress (optional):
+Stormland saves your progress locally and in the cloud. There is a single save file that tracks your progress and does not allow for multiple saves or multiple users. 
+
+In case you want to restart the game or have another person start their own progress, there really isn't a proper way to do it in the game. To get around this, the local save files can be deleted, renamed or moved in order to start the game over. Ordinarly your progress and abilities depend on the availability of your save files so only complete this step is you are happy to lose all your progress in Stormland.
+
+1. Go offline with the computer Steam is installed on. Either disable the Wifi, disable Ethernet or disconnect pull the cable.
+2. Delete or move the files (_stormland_gamedata_071220.save_ and _stormland_userprefs.sav_) from the location below:
+_C:\Users\josh\AppData\Local\Oculus\AppData\139725073420658\3257792424300278\cloud\data_
+Your filename may contain different numbers than the examples on this page.
 
