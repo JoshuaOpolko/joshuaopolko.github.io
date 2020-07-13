@@ -13,7 +13,7 @@ subtitle: Get more out of your Vive
 * Vive Headset 
 * BaseStation ver 1.0
 
-Are you a Vive owner who's played through your entire collection long ago? Tired of seeing the same titles month after month? The Oculus store has a ton of great games that can be played on your Vive.
+Are you a Vive owner who's tired of played through the same titles month after month? Sick and tired of Steam but don't know where else to go for great VR? The Oculus store has a ton of great games that can be played on your Vive.
 
 Revive integrates Oculus software with OpenXR to run Oculus games on your Vive.
 
