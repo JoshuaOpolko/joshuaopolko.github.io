@@ -1,7 +1,7 @@
 ---
 layout: page
 title: stormland-vive-knuckles-oculus-revive
-subtitle: Get more out of your Vive
+subtitle: Get more out of your Vive with Revive!
 ---
 
 #### System:  
