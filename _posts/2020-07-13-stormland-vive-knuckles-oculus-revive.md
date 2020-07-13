@@ -4,9 +4,10 @@ title: stormland-vive-knuckles-oculus-revive
 subtitle: Get more out of your Vive with Revive!
 ---
 Are you a Vive owner who's tired of playing the same titles month after month? 
-Interested in quality VR experiences but don't know where to find them? 
+Are you looking for quality VR experiences but don't know where to find them? 
 The Oculus store has a ton of great games that can be played on your Vive.
 
+#### You need Revive!
 [Revive](https://github.com/LibreVR/Revive) integrates Oculus software with OpenXR to run Oculus games on your Vive.
 
 Additionally, in case there are any issues with your Vive Wands, Valve Index Controllers make for great replacements  Setup instructions are further down this page.
