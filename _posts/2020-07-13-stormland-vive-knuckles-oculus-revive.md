@@ -10,7 +10,7 @@ The Oculus store has a ton of great games that can be played on your Vive.
 #### You need Revive!
 [Revive](https://github.com/LibreVR/Revive) integrates Oculus software with OpenXR to run Oculus games on your Vive.
 
-Additionally, in case there are any issues with your Vive Wands, Valve Index Controllers make for great replacements.
+Additionally, in case there are any issues with your Vive Wands, [Valve Index Controllers](https://www.valvesoftware.com/en/index/controllers) make for great replacements.
 
 #### My System:  
 * [Intel 8700 I7](https://ark.intel.com/content/www/us/en/ark/products/126686/intel-core-i7-8700-processor-12m-cache-up-to-4-60-ghz.html)
