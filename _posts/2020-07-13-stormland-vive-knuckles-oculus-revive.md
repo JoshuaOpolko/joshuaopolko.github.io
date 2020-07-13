@@ -21,7 +21,7 @@ Additionally, in case there are any issues with your Vive Wands, Valve Index Con
 * HTC Vive Headset 
 * [BaseStation ver 1.0](https://www.vive.com/eu/accessory/base-station/)
 
-#### Installation:
+#### Installation: 
 1. Install Oculus and Revive by following the steps in the Installation section of their [github](https://github.com/LibreVR/Revive). 
 2. Purchase and install [Stormland](https://www.oculus.com/experiences/rift/1360938750683878/?ranking_trace=117254459210015_1360938750683878_SKYLINEWEB_15sLveFiOUbKwuHmu) from the [Oculus Store](https://www.oculus.com/).
 
