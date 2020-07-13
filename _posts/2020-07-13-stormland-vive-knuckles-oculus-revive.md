@@ -1,6 +1,6 @@
 ---
 layout: page
-title: stormland-vive-knuckles-oculus-revive
+title: Oculus Stormland on HTC Vive With Index Knuckles
 subtitle: Get more out of your Vive with Revive!
 ---
 Are you a Vive owner who's tired of playing the same titles month after month? 
