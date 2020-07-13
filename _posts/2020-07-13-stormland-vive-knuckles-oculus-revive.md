@@ -4,12 +4,12 @@ title: stormland-vive-knuckles-oculus-revive
 subtitle: It works
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+System:
+8700-i7 / 32 GB RAM / 1080ti
+Steam/SteamVR
+Valve Index Controllers
+Vive Headset
+BaseStation 1.0
 
 ### my history
 
