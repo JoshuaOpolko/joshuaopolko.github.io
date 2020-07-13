@@ -39,7 +39,7 @@ To set a new location for your saved games, follow the steps in this [link](http
 
 Create a new folder for the game location or just put it in Documents or wherever you want other than _C:\Program Files\Oculus_.
 
-#### Optional (Restart your progress): 
+#### Optional (Restart your progress):  
 Stormland saves your progress locally and in the cloud. There is a single save file that tracks your progress and does not allow for multiple saves or multiple users. 
 
 In case you want to restart the game or have another person start their own progress, there really isn't a proper way to do it in the game. To get around this, the local save files can be deleted, renamed or moved in order to start the game over. Ordinarly your progress and abilities depend on the availability of your save files so only complete this step is you are happy to lose all your progress in Stormland.
