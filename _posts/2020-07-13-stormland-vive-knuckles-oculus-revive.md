@@ -22,8 +22,8 @@ Additionally, in case there are any issues with your Vive Wands, Valve Index Con
 * [BaseStation ver 1.0](https://www.vive.com/eu/accessory/base-station/)
 
 #### Installation:
-1. Install Oculus and Revive by following the steps in the Installation section of the github page [here](https://github.com/LibreVR/Revive): 
-2. Purchase [Stormland](https://www.oculus.com/experiences/rift/1360938750683878/?ranking_trace=117254459210015_1360938750683878_SKYLINEWEB_15sLveFiOUbKwuHmu) from the [Oculus Store](https://www.oculus.com/).
+1. Install Oculus and Revive by following the steps in the Installation section of their [github](https://github.com/LibreVR/Revive). 
+2. Purchase and install [Stormland](https://www.oculus.com/experiences/rift/1360938750683878/?ranking_trace=117254459210015_1360938750683878_SKYLINEWEB_15sLveFiOUbKwuHmu) from the [Oculus Store](https://www.oculus.com/).
 
 There is a bug with the Oculus software that results in the inability to install any software purchased from [Oculus](https://www.oculus.com/experiences/rift/). If you experience this bug you must set a new location for your Oculus saved games. After doing this the games will install and run normally. 
 
