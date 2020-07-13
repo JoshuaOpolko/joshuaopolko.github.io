@@ -34,18 +34,21 @@ To set a new location for your saved games, follow the steps in this [link](http
 
 Create a new folder for the game location or just put it in Documents or wherever you want other than _C:\Program Files\Oculus_.
 
-#### Configure Controllers:
+#### Configure Controllers: 
 Control Bindings (Steam Workshop)
 Controller Type (SteamVR)
 Disable thumb-pad press binding
 
-#### Restart your progress (optional):
+#### Restart your progress (optional): 
 Stormland saves your progress locally and in the cloud. There is a single save file that tracks your progress and does not allow for multiple saves or multiple users. 
 
 In case you want to restart the game or have another person start their own progress, there really isn't a proper way to do it in the game. To get around this, the local save files can be deleted, renamed or moved in order to start the game over. Ordinarly your progress and abilities depend on the availability of your save files so only complete this step is you are happy to lose all your progress in Stormland.
 
 1. Go offline with the computer Steam is installed on. Either disable the Wifi, disable Ethernet or disconnect pull the cable.
-2. Delete or move the files (_stormland_gamedata_071220.save_ and _stormland_userprefs.sav_) from the location below:
-_C:\Users\josh\AppData\Local\Oculus\AppData\139725073420658\3257792424300278\cloud\data_
-Your filename may contain different numbers than the examples on this page.
+3. Launch File Explorer and go to _C:\Users\josh\AppData\Local\Oculus\AppData\139725073420658\3257792424300278\cloud\data_
+2. Delete or move the two save files in this location:
+* stormland_gamedata_071220.save
+* stormland_userprefs.save_ from the location below:
+
+Your files and folders may contain different numbers than the examples on this page.
 
