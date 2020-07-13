@@ -26,9 +26,9 @@ Additionally, in case there are any issues with your Vive Wands, Valve Index Con
 2. Purchase and install [Stormland](https://www.oculus.com/experiences/rift/1360938750683878/?ranking_trace=117254459210015_1360938750683878_SKYLINEWEB_15sLveFiOUbKwuHmu) from the [Oculus Store](https://www.oculus.com/).
 
 #### Configure Controllers: 
-Control Bindings (Steam Workshop)
-Controller Type (SteamVR)
-Disable thumb-pad press binding
+1. Control Bindings (Steam Workshop)
+2. Controller Type (SteamVR)
+3. Disable thumb-pad press binding
 
 #### Optional (Can't Install): 
 Some users encounter an Oculus bug that results in the inability to install titles purchased from [Oculus](https://www.oculus.com/experiences/rift/). This can be resolved by setting a different default location for your Oculus games. After doing this the games will install and run normally. 
