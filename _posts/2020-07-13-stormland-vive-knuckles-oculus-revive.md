@@ -19,6 +19,25 @@ Revive integrates Oculus software with OpenXR to run Oculus games on your Vive.
 
 Additionally, in case there are any issues with your Vive Wands, Valve Index Controllers make for great replacements  Setup instructions are further down this page.
 
-#### my history
+#### Installation
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+1. Install Oculus and Revive by following the steps in the Installation section of the github page here: https://github.com/LibreVR/Revive
+
+2. Purchase Stormland from the Oculus Store
+
+In case your game will not install, there is a bug with the Oculus software where you can't save the games in the same location as the Oculus software (c:\program files\Oculus). 
+
+To resolve this, follow the steps to change the location as outlined here:
+
+https://www.windowscentral.com/how-change-where-you-save-oculus-rift-games-your-pc
+
+Create a new folder for the game location or just put it in Documents or wherever you want other than the Program Files / Oculus location.
+
+#### Configure:
+Control Bindings (Steam Workshop)
+Controller Type (SteamVR)
+Disable thumb-pad press binding
+
+Restart your progress (optional):
+In case you want to restart the game or have another person start their own progress, there really isn't a proper way to do it in the game.  To get around this, you can delete and recreate your save files locally, and then sync them to the cloud to restart the game.
+
