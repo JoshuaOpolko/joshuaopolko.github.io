@@ -3,8 +3,13 @@ layout: page
 title: stormland-vive-knuckles-oculus-revive
 subtitle: Get more out of your Vive with Revive!
 ---
+Are you a Vive owner who's tired of playing the same titles month after month? Interested in quality VR experiences but don't know where to find them? The Oculus store has a ton of great games that can be played on your Vive.
 
-#### System:  
+[Revive](https://github.com/LibreVR/Revive) integrates Oculus software with OpenXR to run Oculus games on your Vive.
+
+Additionally, in case there are any issues with your Vive Wands, Valve Index Controllers make for great replacements  Setup instructions are further down this page.
+
+#### My System:  
 * [Intel 8700 I7](https://ark.intel.com/content/www/us/en/ark/products/126686/intel-core-i7-8700-processor-12m-cache-up-to-4-60-ghz.html)
 * 32 GB RAM 
 * [Nvidia Geforce 1080ti](https://www.nvidia.com/en-sg/geforce/products/10series/geforce-gtx-1080-ti/)
@@ -12,12 +17,6 @@ subtitle: Get more out of your Vive with Revive!
 * [Valve Index Controllers](https://www.valvesoftware.com/en/index/controllers)
 * HTC Vive Headset 
 * [BaseStation ver 1.0](https://www.vive.com/eu/accessory/base-station/)
-
-Are you a Vive owner who's tired of plaing the same titles month after month? Interested in quality VR experiences but don't know where to find them? The Oculus store has a ton of great games that can be played on your Vive.
-
-[Revive](https://github.com/LibreVR/Revive) integrates Oculus software with OpenXR to run Oculus games on your Vive.
-
-Additionally, in case there are any issues with your Vive Wands, Valve Index Controllers make for great replacements  Setup instructions are further down this page.
 
 #### Installation
 
