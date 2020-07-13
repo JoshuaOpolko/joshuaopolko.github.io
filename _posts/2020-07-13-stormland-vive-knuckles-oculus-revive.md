@@ -5,15 +5,15 @@ subtitle: Get more out of your Vive with Revive!
 ---
 
 #### System:  
-* Intel 8700 I7 
+* [Intel 8700 I7](https://ark.intel.com/content/www/us/en/ark/products/126686/intel-core-i7-8700-processor-12m-cache-up-to-4-60-ghz.html)
 * 32 GB RAM 
-* Nvidia Geforce 1080ti 
-* SteamVR 
-* Valve Index Controllers 
-* Vive Headset 
-* BaseStation ver 1.0
+* [Nvidia Geforce 1080ti](https://www.nvidia.com/en-sg/geforce/products/10series/geforce-gtx-1080-ti/)
+* [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
+* [Valve Index Controllers](https://www.valvesoftware.com/en/index/controllers)
+* HTC Vive Headset 
+* [BaseStation ver 1.0](https://www.vive.com/eu/accessory/base-station/)
 
-Are you a Vive owner who's tired of played through the same titles month after month? Interested in new VR experiences but don't know where to look? The Oculus store has a ton of great games that can be played on your Vive.
+Are you a Vive owner who's tired of plaing the same titles month after month? Interested in quality VR experiences but don't know where to find them? The Oculus store has a ton of great games that can be played on your Vive.
 
 [Revive](https://github.com/LibreVR/Revive) integrates Oculus software with OpenXR to run Oculus games on your Vive.
 
