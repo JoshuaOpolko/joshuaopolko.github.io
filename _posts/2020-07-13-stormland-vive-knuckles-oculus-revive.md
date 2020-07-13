@@ -25,6 +25,11 @@ Additionally, in case there are any issues with your Vive Wands, Valve Index Con
 1. Install Oculus and Revive by following the steps in the Installation section of their [github](https://github.com/LibreVR/Revive). 
 2. Purchase and install [Stormland](https://www.oculus.com/experiences/rift/1360938750683878/?ranking_trace=117254459210015_1360938750683878_SKYLINEWEB_15sLveFiOUbKwuHmu) from the [Oculus Store](https://www.oculus.com/).
 
+#### Configure Controllers: 
+Control Bindings (Steam Workshop)
+Controller Type (SteamVR)
+Disable thumb-pad press binding
+
 #### Optional (Can't Install): 
 Some users encounter an Oculus bug that results in the inability to install titles purchased from [Oculus](https://www.oculus.com/experiences/rift/). This can be resolved by setting a different default location for your Oculus games. After doing this the games will install and run normally. 
 
@@ -33,11 +38,6 @@ Ensure that the location you are saving your downloaded Oculus games to is not _
 To set a new location for your saved games, follow the steps in this [link](https://www.windowscentral.com/how-change-where-you-save-oculus-rift-games-your-pc).
 
 Create a new folder for the game location or just put it in Documents or wherever you want other than _C:\Program Files\Oculus_.
-
-#### Configure Controllers: 
-Control Bindings (Steam Workshop)
-Controller Type (SteamVR)
-Disable thumb-pad press binding
 
 #### Optional (Restart your progress): 
 Stormland saves your progress locally and in the cloud. There is a single save file that tracks your progress and does not allow for multiple saves or multiple users. 
