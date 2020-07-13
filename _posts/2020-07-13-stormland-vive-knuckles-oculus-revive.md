@@ -21,19 +21,19 @@ Additionally, in case there are any issues with your Vive Wands, Valve Index Con
 * HTC Vive Headset 
 * [BaseStation ver 1.0](https://www.vive.com/eu/accessory/base-station/)
 
-#### Installation
-
+#### Installation:
 1. Install Oculus and Revive by following the steps in the Installation section of the github page here: https://github.com/LibreVR/Revive
-
 2. Purchase Stormland from the Oculus Store
 
-In case your game will not install, there is a bug with the Oculus software where you can't save the games in the same location as the Oculus software (c:\program files\Oculus). 
+There is a bug with the Oculus software that results in the inability to install any software purchased from [Oculus](https://www.oculus.com/experiences/rift/). If you experience this bug you must set a new location for your Oculus saved games. After doing this the games will install and run normally. 
 
-To resolve this, follow the steps to change the location as outlined here:
+Ensure that the location you are saving your downloaded Oculus games to is not _C:\Program Files\Oculus_. 
+
+To set a new location for your saved games, follow the steps in the link below:
 
 https://www.windowscentral.com/how-change-where-you-save-oculus-rift-games-your-pc
 
-Create a new folder for the game location or just put it in Documents or wherever you want other than the Program Files / Oculus location.
+Create a new folder for the game location or just put it in Documents or wherever you want other than _C:\Program Files\Oculus_.
 
 #### Configure:
 Control Bindings (Steam Workshop)
