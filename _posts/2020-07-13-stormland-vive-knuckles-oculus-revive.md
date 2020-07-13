@@ -4,8 +4,8 @@ title: stormland-vive-knuckles-oculus-revive
 subtitle: Get more out of your Vive
 ---
 
-##System:\
-8700-i7 / 32 GB RAM / 1080ti\
+## System:\  
+8700-i7 / 32 GB RAM / 1080ti \  
 Steam/SteamVR\
 Valve Index Controllers\
 Vive Headset\
