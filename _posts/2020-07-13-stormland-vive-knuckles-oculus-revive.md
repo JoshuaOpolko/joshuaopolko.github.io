@@ -5,10 +5,7 @@ subtitle: Get more out of your Vive
 ---
 
 #### System:  
-8700 i7 32 GB RAM 
--1080ti
--Steam/SteamVR
--Valve Index Controllers\ Vive Headset\ BaseStation 1.0\
+8700 (I7) - 32 GB RAM - 1080ti - Steam/SteamVR - Valve Index Controllers - Vive Headset - BaseStation ver 1.0
 
 ### my history
 
