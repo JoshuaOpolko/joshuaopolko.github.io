@@ -5,11 +5,8 @@ subtitle: Get more out of your Vive (or HTC Vive Cosmos/Valve Index/Windows Mixe
 
 ---
 ![Stormland](https://github.com/JoshuaOpolko/joshuaopolko.github.io/blob/master/assets/img/Stormland.png "Stormland rocks!")
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-[![Foo](https://github.com/JoshuaOpolko/joshuaopolko.github.io/blob/master/assets/img/Stormland.png)](http://google.com.au/)
-![](../assets/img/joshua-opolko.jpg)
 <figure><img src="images/joshua-opolko.jpg"><figcaption>image caption</figcaption></figure>
-
+<figure><img src="images/Stormland.png"><figcaption>image caption</figcaption></figure>
 
 
 
