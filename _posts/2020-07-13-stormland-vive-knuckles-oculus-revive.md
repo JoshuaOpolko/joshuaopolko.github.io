@@ -17,7 +17,7 @@ Big names like this are needed in Virtual and Augmented Reality (known collectiv
 
 Don’t forget to check the [compatibility list](https://github.com/LibreVR/Revive/wiki/Compatibility-list) _before_ making your purchase! Ensure the game you have your eye on works in Revive! At the time of this writing Stormland is listed as Working – Stormland fix. It perfectly out-of-the-box requiring only the controller customizations below. Performance is great. Looks the same as native SteamVR games for the most part. 
 
-Having said that, Revive is not officially supported or endorsed by Oculus so they could decide to block Revive from working at any time. This means you assume the risk of all of the Oculus games you’ve purchase disappearing from Revive at any time... Oh well, such is the life of a jailbreaker/modder/experimenter/enthusiast/hobbiest/fan/open-source aficionado/pirate/cracker/hacker/anyone with curiosity/etc. Plus, you didn’t buy that beast of a VR machine just to play the equivalent of browser flash-games on it, did you? Did you?!? For those of us willing to take the risk there’s Revive. Let’s jump in!
+Having said that, Revive is not officially supported or endorsed by Oculus so they could decide to block Revive from working at any time. This means you assume the risk of all of the Oculus games you’ve purchase disappearing from Revive at any time... Oh well, such is the life of a jailbreaker, modder, experimenter, enthusiast, hobbiest, fan, open-source aficionado, pirate, cracker, hacker, anyone with curiosity, etc. And really, you didn’t buy that beast of a VR machine just to play the equivalent of flash-games on it, did you? Did you?!? You kids don't even know what flash is, do you?!? So for those of us willing to take the risk there’s Revive. Let’s jump in!
 
 #### My System for comparison:  
 * [Intel 8700 I7](https://ark.intel.com/content/www/us/en/ark/products/126686/intel-core-i7-8700-processor-12m-cache-up-to-4-60-ghz.html)
@@ -28,9 +28,8 @@ Having said that, Revive is not officially supported or endorsed by Oculus so th
 * HTC Vive Headset 
 * [BaseStation ver 1.0](https://www.vive.com/eu/accessory/base-station/)
 
-How to Install and Configure Revive for HTC Vive:
-1.	Install Oculus Rift S Software by clicking the Download Software button from https://www.oculus.com/setup/
- 
+#### How to Install and Configure Revive for HTC Vive:
+1.	Install [Oculus Rift S Software](https://www.oculus.com/setup/) but do not set up the headset.
 2.	Follow the installation default options until you get to the screen instructing you to connect your headset. Do not complete this step.
 3.	Click the Skip Setup button. 
  
