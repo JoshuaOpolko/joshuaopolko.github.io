@@ -30,32 +30,39 @@ Having said that, Revive is not officially supported or endorsed by Oculus so th
 
 #### How to Install and Configure Revive for HTC Vive:
 1.	Install [Oculus Rift S Software](https://www.oculus.com/setup/) but do not set up the headset.
+
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 2.	Follow the installation default options until you get to the screen instructing you to connect your headset. Do not complete this step.
 3.	Click the Skip Setup button. 
+
 <img src="../assets/img/Oculus-connect-your-headset-skip-this.png" class="img-responsive" alt="Skip Setup" width="1000">
 
 For Vive setups you will not be configuring the headset/hardware. The hardware setup step is left incomplete indefinitely. Proceed to the next step.
 4.	Install the latest version of the ReviveInstaller.exe from github (the one with the highest version number – v2.1.1 as of July 2020)
+
 <img src="../assets/img/Revive-Github-versions.png" class="img-responsive" alt="Download the latest version of ReviveInstaller.exe" width="1000">
 
 5.	Launch Oculus and purchase [Stormland](https://www.oculus.com/experiences/rift/1360938750683878/?ranking_trace=117254459210015_1360938750683878_SKYLINEWEB_15sLveFiOUbKwuHmu)
 6.	Launch SteamVR and put on your headset.
 7.	Open the SteamVR dashboard and note that there is now a new button called Revive. You can click this to bring up the Revive dashboard with all your games. For now just note it’s location. We still need to set up the controllers. You can launch your Oculus titles using the Revive button or from the regular SteamVR menu.
+
 <img src="../assets/img/New-Revive-Button-in-SteamVR.png" class="img-responsive" alt="New Revive Button in SteamVR - Yaay!" width="1000">
 
 Launch Stormland from the menu that appears. You can also launch it from the Steam menu.
 By default there is no way to press the in-game Pause Menu button with the Valve Index Controllers. We will assign the left A button to this function.
 Press the System button on the Knuckles and select Show Old Binding UI
+
 <img src="../assets/img/SteamVR-Show-Old-Controller-Bindings.png" class="img-responsive" alt="SteamVR Show Old Controller Binding UI" width="1000">
 
 By default there is no way to press the Menu button with the Valve Index Controllers.
 Press the System button on the Knuckles and select Show Old Binding UI
+
 <img src="../assets/img/SteamVR-Show-Old-Controller-Bindings.png" class="img-responsive" alt="SteamVR - Show Old Controller Bindings" width="1000">
 
 Select Stormland on Oculus
 On the screen entitled “Change Bindings For Stormland on Oculus” you can select a pre-programmed binding. A binding is basically just a list of which actions go with which buttons. We can use the Official Binding for Revive/Index as a template and then tweak it to fix the A buttons (further down this page). 
+
 <img src="../assets/img/Stormland_on_oculus_edit_controller_bindings.png" class="img-responsive" alt="Stormland On Oculus Edit Controller Bindings" width="1000">
 
 ### How to Change Controller Bindings Valve Index (Knuckles) Controllers for Stormland: 
@@ -64,16 +71,20 @@ b.	Locate Revive for Index published by the developer.
 c.	Activate Revive for Index to set them as your Current Binding. 
 Try running the game now to see if your controllers are working as you’d like. You’ll know immediately if it works as you will be now able to click the Menu button above. In my case these bindings did not work. Left A button did not bring up the Pause Menu and the Right A button was not set as Jump. 
 If your A buttons are not working as you’d like click Edit (4) on your new Current Binding. This way you can manually assign the left and right A buttons.
+
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 Once you’ve clicked Edit you’ll see all buttons and bindings. The only two I’m concerned with here are the Left and Right A buttons. Each button can be edited by clicking the little pencil icon that appears when you point at the text in each box. 
+
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 After clicking the Edit (pencil icon) for the button you are re-assigning, you can assign the function you want.  Remember to disable Mirror Mode in the middle of the screen to set different controls for right and left controllers. We will do this to make the Left A activate the Pause Menu and the Right A to be the Jump button. The Actions you can apply to the button can be seen in the picture below:
+
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 Edit the button assignments for both A buttons to select the accompanying function for each. Valve Index buttons are so full of sensors that they have different settings for Touching the button versus Clicking it. We only want to change the Click behavior although obviously you can set the touch to anything you’d like. I left mine as they were.
 After you’ve set the buttons correctly the button assignments should look like this:
+
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 Ensure the A buttons have been set as follows:
@@ -84,7 +95,9 @@ Click the Back button in the top left corner until you are back in the game.
 Try the buttons, Left A should now open the Pause Menu and Right A should make you jump. Depending on where you are in the game, it may not be possible to jump but you will see an electric field flash around you instead. This is fine, the button is working properly and will make you Jump again when you have left the base.
 Disable thumb-pad press binding - By default, the Index Thumb Pads are assigned to open the Pause Menu. This becomes frustrating in-game when you accidentally press the pads which are located so conveniently under each thumb. The popup menu totally interrupts whatever you were doing, so it’s a good idea to disable the thumb-pad menu option. This can be disabled in-game as follows:
 There you have it. All set to enjoy some sweet Oculus goodness on your Vive. Do it for yourself. Do it for the children. Do it for the Zuck who obviously sees into the future and wants you to be a part of it! Just look how happy it makes him when people use his stuff!
+
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+
 “In the Land of the Blind the One-Eyed Man is King” 
 some guy
 
@@ -96,12 +109,15 @@ To set a new location for your saved games, follow the steps below:
 2.	Click Settings.
 3.	Click General.
 4.	Click Edit in the Library Locations section.
+
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 5.	Click Add Location.
+
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 6.	Choose a new library location. You can use any folder you’d like, you can also create a new folder by right-clicking the background in the Select Folder window. Once created, you can select the new folder for the new location by double-clicking it and clicking Select Folder.
+
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 7.	Double-click your new or chosen folder and click Select Folder.
@@ -109,6 +125,7 @@ While you are in the settings, it is a good idea to set the new location as the 
 1.	Identify the new location
 2.	Click the elipses menu button
 3.	Select Make Default
+
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 Now that your game file location is no longer C:\Program Files\Oculus\Software you will be able to install & play Oculus games. Woohoo! You made it! Give Stormland a try.
@@ -128,14 +145,19 @@ Your files and folders may contain different numbers than the examples on this p
 If you don’t see the appdata folder you can enable it with the steps below:
 1.	Launch File Explorer
 2.	In the File Explorer click View then Options and then Change Folder and Search Options
+
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000"> 
 
 3.	In the next window that pops up select View and then down below in Advance Settings ensure “Show hidden files, folders and drives” is checked.
+
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+
 4.	Click OK
 You will now see the the appdata folder in File Explorer. Go ahead and click through it until you are at the location below:
 C:\Users\your_username\AppData\Local\Oculus\AppData\139725073420658\3257792424300278\cloud\data
+
 1.	From there you can delete or rename the files contained in the folder. Your computer should still be offline at this point or it will simply retrieve your cloud saves and restore them to this location. To avoid this, launch Stormland while offline and begin the game. This means setting up dominant hand, etc and actually starting the level. This will create two new save and preference files. Once these have been created (you will see them again in C:\Users\your_username\AppData\Local\Oculus\AppData\139725073420658\3257792424300278\cloud\data) you can exit the game and go online again. When you next launch the game it will overwrite the cloud saves with the newly created files so your ‘progress restart’ will be replace the cloud saves. You are supposed to get a warning from Steam asking if you’d like to overwrite the cloud saves or the local saves but I did not get this alert. Instead SteamVR just loaded the new local save/pref files and used them to overwrite my cloud progress. This is what I wanted in t his case but be aware you can overwrite cloud saves easily and potentially lose your progress by following these steps.
+
 Finally, you are all set! Fire up Stormland and experience the goodness of Oculus. Personally I think they should officially support Revive as ti gives Vive owners great exposure to Oculus software and makes people like me much more likely to consider buying Oculus hardware in the future. Also, Oculus publicly supports OpenXR. Other members include AMD, Apple, Epic Games, Google, Huawei, Intel, Nvidia, Qualcomm, Samsung, Sony, Valve, acer, Alibaba, Amazon, Broadcom, Facebook, EA, Hitachi, HP, HTC, Nintendo, Nokia, Panasonic, Red Hat, Unity, VMWare and MANY more! Personally I’d say that the future of VR/AR/XR is looking extremely promising! Hopefully this means that cross-platform interoperability is the plan for the future and we will be able to share software across platforms like this even more going forward. 
 
 Thanks,
