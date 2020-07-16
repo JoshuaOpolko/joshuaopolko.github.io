@@ -4,7 +4,7 @@ title: Oculus Stormland on HTC Vive With Index Knuckles
 subtitle: Get more out of your Vive (or HTC Vive Cosmos/Valve Index/Windows Mixed Reality) with Revive!
 
 ---
-<img src="../assets/img/Stormland.png" class="img-responsive" alt="Stormland Rocks!">
+<img src="../assets/img/Stormland.png" class="img-responsive" alt="Stormland Rocks!" width=250>
 
 Are you the proud owner of an HTC Vive looking for new games? Tired of seeing the same old SteamVR titles month after month? Looking for quality entertainment but not sure where to find it? 
 
