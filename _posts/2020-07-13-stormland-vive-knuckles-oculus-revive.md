@@ -6,6 +6,7 @@ subtitle: Get more out of your Vive (or HTC Vive Cosmos/Valve Index/Windows Mixe
 ---
 
 <figure><img src="images/Stormland.png"><figcaption>image caption</figcaption></figure>
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
 
 
