@@ -4,11 +4,7 @@ title: Oculus Stormland on HTC Vive With Index Knuckles
 subtitle: Get more out of your Vive (or HTC Vive Cosmos/Valve Index/Windows Mixed Reality) with Revive!
 
 ---
-Are you the proud owner of an HTC Vive looking for new games? 
-
-Tired of seeing the same old SteamVR titles month after month? 
-
-Looking for quality entertainment but not sure where to find it? 
+Are you the proud owner of an HTC Vive looking for new games? Tired of seeing the same old SteamVR titles month after month? Looking for quality entertainment but not sure where to find it? 
 
 Look no further friend, you need [Oculus](https://www.oculus.com/experiences/rift/)! Many Oculus games can be [played](https://github.com/LibreVR/Revive/wiki/Compatibility-list) on Vive with the right software. 
 
