@@ -6,7 +6,7 @@ subtitle: Get more out of your Vive (or HTC Vive Cosmos/Valve Index/Windows Mixe
 ---
 [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
-<img src="img/Stormland.png" class="img-responsive" alt=""> </div>
+[<img src="img/Stormland.png" class="img-responsive" alt="">]
 
 
 Are you the proud owner of an HTC Vive looking for new games? Tired of seeing the same old SteamVR titles month after month? Looking for quality entertainment but not sure where to find it? 
