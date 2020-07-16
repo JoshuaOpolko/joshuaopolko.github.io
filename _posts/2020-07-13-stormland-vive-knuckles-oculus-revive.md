@@ -11,6 +11,17 @@ Look no further friend, you need [Oculus](https://www.oculus.com/experiences/rif
 
 Big names like this are needed in Virtual and Augmented Reality (known collectively as [XR](https://en.wikipedia.org/wiki/Extended_reality) so let’s jump in and take a look at running this Oculus title on a Vive.
 
+#### Your Vive needs a Revive!
+[Revive](https://github.com/LibreVR/Revive/releases) allows you to play Oculus games on your [HTC Vive](https://www.vive.com/ca/accessory/controller/) as well as other systems. You can use your existing [Vive Wands](https://www.vive.com/ca/accessory/controller/) or any other controllers supported by [SteamVR](https://store.steampowered.com/app/250820/SteamVR/). The steps below show how to set up [Valve Index Controllers](https://www.valvesoftware.com/en/index/controllers) for use with Vive and the Oculus store. Revive also allows you to play Oculus games on your [HTC Vive Cosmos](https://www.vive.com/eu/product/vive-cosmos/features/), [Valve Index](https://www.valvesoftware.com/en/index/headset), [Windows Mixed Reality](https://www.microsoft.com/en-us/mixed-reality/windows-mixed-reality) systems and more.
+
+Don’t forget to check the [compatibility list](https://github.com/LibreVR/Revive/wiki/Compatibility-list) _before_ making your purchase! Ensure the game you have your eye on works in Revive! At the time of this writing Stormland is listed as Working – Stormland fix. It perfectly out-of-the-box requiring only the controller customizations below. Performance is great. Looks the same as native SteamVR games for the most part. 
+
+Having said that, Revive is not officially supported or endorsed by Oculus so they could decide to block Revive from working at any time. This means you assume the risk of all of the Oculus games you’ve purchase disappearing from Revive at any time... Oh well, such is the life of a jailbreaker/modder/experimenter/enthusiast/hobbiest/fan/open-source aficionado/pirate/cracker/hacker/anyone with curiosity/etc. Plus, you didn’t buy that beast of a VR machine just to play the equivalent of browser flash-games on it, did you? Did you?!? For those of us willing to take the risk there’s Revive. Let’s jump in!
+
+
+
+
+
 #### You need Revive!
 [Revive](https://github.com/LibreVR/Revive) integrates Oculus software with OpenXR to run Oculus games on your Vive.
 
