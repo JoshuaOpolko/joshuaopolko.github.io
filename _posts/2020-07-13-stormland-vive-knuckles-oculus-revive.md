@@ -4,10 +4,10 @@ title: Oculus Stormland on HTC Vive With Index Knuckles
 subtitle: Get more out of your Vive (or HTC Vive Cosmos/Valve Index/Windows Mixed Reality) with Revive!
 
 ---
-[<img src="../assets/img/Stormland.png" class="img-responsive" alt="Stormland Rocks!">]
+<img src="../assets/img/Stormland.png" class="img-responsive" alt="Stormland Rocks!">
 
 Are you the proud owner of an HTC Vive looking for new games? Tired of seeing the same old SteamVR titles month after month? Looking for quality entertainment but not sure where to find it? 
-[<img src="../assets/img/Stormland.png" class="img-responsive" alt="Stormland Rocks!">]
+
 Look no further friend, you need [Oculus](https://www.oculus.com/experiences/rift/)! Many Oculus games can be [played](https://github.com/LibreVR/Revive/wiki/Compatibility-list) on Vive with the right software. [Stormland](https://www.oculus.com/stormland/?locale=en_US) for example is an epic adventure game created by [Insomniac Games](https://insomniac.games), the same folks who brought you [Ratchet and Clank](https://insomniac.games/game/ratchet-and-clank-ps4/)! 
 
 Big names like this are needed in Virtual and Augmented Reality (known collectively as [XR](https://en.wikipedia.org/wiki/Extended_reality) so let’s jump in and take a look at running this Oculus title on a Vive.
