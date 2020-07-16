@@ -30,6 +30,7 @@ Having said that, Revive is not officially supported or endorsed by Oculus so th
 
 #### How to Install and Configure Revive for HTC Vive:
 1.	Install [Oculus Rift S Software](https://www.oculus.com/setup/) but do not set up the headset.
+<img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 2.	Follow the installation default options until you get to the screen instructing you to connect your headset. Do not complete this step.
 3.	Click the Skip Setup button. 
  
