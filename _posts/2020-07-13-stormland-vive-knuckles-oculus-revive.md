@@ -31,7 +31,7 @@ As much fun as it is, Revive is not officially supported or endorsed by Oculus s
 *Half-Life Alyx*
 <img src="../assets/img/Half-Life-Alyx-Task-Manager.Steam.png" class="img-responsive" alt="Half-Life Alyx CPU/RAM/GPU/Display" width="1000">
 
-*Stormland* (Revive which likely increases utilization)
+*Stormland on Revive on Oculus*
 #<img src="../assets/img/Half-Life-Alyx-Task-Manager.Steam.png" class="img-responsive" alt="Stormland CPU/RAM/GPU/Display" width="1000">
 #### TO BE ADDED - josh
 
