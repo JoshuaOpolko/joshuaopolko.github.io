@@ -28,15 +28,15 @@ Having said that, Revive is not officially supported or endorsed by Oculus so th
 * HTC Vive Headset 
 * [BaseStation ver 1.0](https://www.vive.com/eu/accessory/base-station/)
 
-Below are my system and Steam Performance data. You can probably get an idea how your system will perform based on this data.
+Below are my system and Steam Performance data.
 
 *Half-Life Alyx*
 <img src="../assets/img/Half-Life-Alyx-Task-Manager.Steam.png" class="img-responsive" alt="Half-Life Alyx CPU/RAM/GPU/Display" width="1000">
 
-*Stormland via Revive* Understand that there overhead related to the emulation or 
+*Stormland* (Revive which likely increases utilization)
 <img src="../assets/img/Half-Life-Alyx-Task-Manager.Steam.png" class="img-responsive" alt="Stormland CPU/RAM/GPU/Display" width="1000">
-
 #### TO BE ADDED - josh
+
 
 #### How to Install and Configure Revive for HTC Vive:
 1.	Install [Oculus Rift S Software](https://www.oculus.com/setup/) but do not set up the headset.
