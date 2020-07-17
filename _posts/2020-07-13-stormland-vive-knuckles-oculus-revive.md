@@ -47,7 +47,12 @@ As much fun as it is, Revive is not officially supported or endorsed by Oculus s
 
 <img src="../assets/img/Oculus-connect-your-headset-skip-this.png" class="img-responsive" alt="Skip Setup" width="1000">
 
-For Vive setups you will not be setting up the controllers. The hardware setup step is left incomplete indefinitely. Proceed to the next step.
+For Vive setups you will not be setting up the controllers. 
+
+The hardware setup step is left incomplete indefinitely. 
+
+Proceed to the next step.
+
 Install the latest version of the ReviveInstaller.exe from github (the one with the highest version number – v2.1.1 as of July 2020)
 
 <img src="../assets/img/Revive-Github-versions.png" class="img-responsive" alt="Download the latest version of ReviveInstaller.exe" width="1000">
@@ -60,9 +65,12 @@ Install the latest version of the ReviveInstaller.exe from github (the one with 
 
 <img src="../assets/img/New-Revive-Button-in-SteamVR.png" class="img-responsive" alt="New Revive Button in SteamVR - Yaay!" width="1000">
 
-For future refernce, you can launch Stormland from the Revive Dashboard that appears after clicking the Revive button. You can also launch it from the Steam menu like any other game.
+For future refernce, you can launch Stormland from the Revive Dashboard that appears after clicking the Revive button. (get pic - josh)You can also launch it from the Steam menu like any other game.
 
-By default there is no way to press the in-game Pause Menu button with the Valve Index Controllers. We will assign the left A button to this function.
+By default there is no way to press the in-game Pause Menu button with the Valve Index Controllers and the jump button doesn't work.
+
+We will assign the left A button to the Pause Menu and the right A button to Jump.
+
 Launch SteamVR and once it's running press the System button on the Knuckles to bring up the System Menu.
 
 1. Select Settings
@@ -73,9 +81,9 @@ Launch SteamVR and once it's running press the System button on the Knuckles to 
 
 On the screen entitled _Change Bindings For Stormland on Oculus_ select _Stormland on Oculus_. 
 
-You can select a pre-programmed binding. A binding is a list of which actions go with which buttons, what actions are bound to which buttons. 
+You can select a pre-programmed binding. A binding defines which actions are bound to which buttons.
 
-We can use the Official Binding for Revive/Index as a template and then edit it to fix the A buttons. I don't know why it's necessary to edit the Official Binding. It worked without editting a couple of times and then stopped, so now I edit the Binding manually.
+We can use the Official Binding for Revive/Index as a template and then edit it to fix the A buttons.
 
 <img src="../assets/img/Stormland_on_oculus_edit_controller_bindings.png" class="img-responsive" alt="Stormland On Oculus Edit Controller Bindings" width="1000">
 
