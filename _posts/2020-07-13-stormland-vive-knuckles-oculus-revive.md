@@ -19,7 +19,7 @@ Don’t forget to check the [compatibility list](https://github.com/LibreVR/Revi
 
 As much fun as it is, Revive is not officially supported or endorsed by Oculus so they could block it at any time. This means you are taking the risk that all your Oculus games could disappear at any time or at least your ability to play them... But that is the reality of any jailbreaker, modder, experimenter, enthusiast, hobbiest, etc and what usually gets you closer to the good stuff. Besides, you didn’t buy put together your VR rig just to play phone games on. You want something with a little substance. So for those of us willing to take the risk there’s Revive. 
 
-#### My System for comparison:  
+#### System:  
 * [Intel 8700 I7](https://ark.intel.com/content/www/us/en/ark/products/126686/intel-core-i7-8700-processor-12m-cache-up-to-4-60-ghz.html)
 * 32 GB RAM 
 * [Nvidia Geforce 1080ti](https://www.nvidia.com/en-sg/geforce/products/10series/geforce-gtx-1080-ti/)
@@ -28,13 +28,11 @@ As much fun as it is, Revive is not officially supported or endorsed by Oculus s
 * HTC Vive Headset 
 * [BaseStation ver 1.0](https://www.vive.com/eu/accessory/base-station/)
 
-Below are my system and Steam Performance data.
-
 *Half-Life Alyx*
 <img src="../assets/img/Half-Life-Alyx-Task-Manager.Steam.png" class="img-responsive" alt="Half-Life Alyx CPU/RAM/GPU/Display" width="1000">
 
 *Stormland* (Revive which likely increases utilization)
-<img src="../assets/img/Half-Life-Alyx-Task-Manager.Steam.png" class="img-responsive" alt="Stormland CPU/RAM/GPU/Display" width="1000">
+#<img src="../assets/img/Half-Life-Alyx-Task-Manager.Steam.png" class="img-responsive" alt="Stormland CPU/RAM/GPU/Display" width="1000">
 #### TO BE ADDED - josh
 
 
@@ -73,47 +71,77 @@ Launch SteamVR and once it's running press the System button on the Knuckles to 
 
 <img src="../assets/img/steamvr-controller-settings.png" class="img-responsive" alt="SteamVR Controller Settings" width="1000">
 
-Select Stormland on Oculus
-On the screen entitled “Change Bindings For Stormland on Oculus” you can select a pre-programmed binding. A binding is basically just a list of which actions go with which buttons. We can use the Official Binding for Revive/Index as a template and then tweak it to fix the A buttons (further down this page). 
+On the screen entitled _Change Bindings For Stormland on Oculus_ select _Stormland on Oculus_. 
+
+You can select a pre-programmed binding. A binding is a list of which actions go with which buttons, what actions are bound to which buttons. 
+
+We can use the Official Binding for Revive/Index as a template and then edit it to fix the A buttons. I don't know why it's necessary to edit the Official Binding. It worked without editting a couple of times and then stopped, so now I edit the Binding manually.
 
 <img src="../assets/img/Stormland_on_oculus_edit_controller_bindings.png" class="img-responsive" alt="Stormland On Oculus Edit Controller Bindings" width="1000">
 
 ### How to Change Controller Bindings Valve Index (Knuckles) Controllers for Stormland: 
 
-a.	Identify the Official Bindings section.
-b.	Locate Revive for Index published by the developer. 
-c.	Activate Revive for Index to set them as your Current Binding. 
-Try running the game now to see if your controllers are working as you’d like. You’ll know immediately if it works as you will be now able to click the Menu button above. In my case these bindings did not work. Left A button did not bring up the Pause Menu and the Right A button was not set as Jump. 
-If your A buttons are not working as you’d like click Edit (4) on your new Current Binding. This way you can manually assign the left and right A buttons.
+A.	Identify the Official Bindings section.
+
+B.	Locate Revive for Index published by the developer. 
+
+C.	Activate Revive for Index to set them as your Current Binding. 
+ (something missing here - josh)
+Click Edit on your new Current Binding. This way you can manually assign the left and right A buttons.
 
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
-Once you’ve clicked Edit you’ll see all buttons and bindings. The only two I’m concerned with here are the Left and Right A buttons. Each button can be edited by clicking the little pencil icon that appears when you point at the text in each box. 
+Once you’ve clicked Edit you’ll see all buttons their actions. We're only here for the Left and Right A buttons.
+
+Each button can be edited by clicking the little pencil icon that appears when you point at the text in each box. 
 
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
-After clicking the Edit (pencil icon) for the button you are re-assigning, you can assign the function you want.  Remember to disable Mirror Mode in the middle of the screen to set different controls for right and left controllers. We will do this to make the Left A activate the Pause Menu and the Right A to be the Jump button. The Actions you can apply to the button can be seen in the picture below:
+After clicking the Edit (pencil icon) for the button you are re-assigning, you can assign the function you want.  
+
+Remember to disable Mirror Mode in the middle of the screen to set different controls for right and left controllers. 
+
+We will do this to make the Left A activate the Pause Menu and the Right A to be the Jump button. The Actions you can apply to the button can be seen in the picture below:
 
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
-Edit the button assignments for both A buttons to select the accompanying function for each. Valve Index buttons are so full of sensors that they have different settings for Touching the button versus Clicking it. We only want to change the Click behavior although obviously you can set the touch to anything you’d like. I left mine as they were.
+Edit the button assignments for both A buttons to select the accompanying function for each. 
+
+Valve Index buttons are so full of sensors that they have different settings for Touching the button versus Clicking it. 
+
+We only want to change the Click behavior although obviously you can set the touch to anything you’d like. I left mine as they were.
+
 After you’ve set the buttons correctly the button assignments should look like this:
 
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 Ensure the A buttons have been set as follows:
+
 1.	Left A Button: Click = Menu button
 2.	Right A Button: Click = A/X press
 3.	Save Personal Binding
-Click the Back button in the top left corner until you are back in the game. 
-Try the buttons, Left A should now open the Pause Menu and Right A should make you jump. Depending on where you are in the game, it may not be possible to jump but you will see an electric field flash around you instead. This is fine, the button is working properly and will make you Jump again when you have left the base.
-Disable thumb-pad press binding - By default, the Index Thumb Pads are assigned to open the Pause Menu. This becomes frustrating in-game when you accidentally press the pads which are located so conveniently under each thumb. The popup menu totally interrupts whatever you were doing, so it’s a good idea to disable the thumb-pad menu option. This can be disabled in-game as follows:
-There you have it. All set to enjoy some sweet Oculus goodness on your Vive. Do it for yourself. Do it for the children. Do it for the Zuck who obviously sees into the future and wants you to be a part of it! Just look how happy it makes him when people use his stuff!
 
-<img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+Click the Back button in the top left corner until you are back in the game. 
+
+Try the buttons, Left A should now open the Pause Menu and Right A should make you jump. Depending on where you are in the game, it may not be possible to jump but you will see an electric field flash around you instead. 
+
+This is fine, the button is working properly and will make you Jump again when you have left the base.
+
+Disable thumb-pad press binding - By default, the Index Thumb Pads are assigned to open the Pause Menu. 
+
+This becomes frustrating in-game when you accidentally press the pads which are located so conveniently under each thumb. 
+
+The popup menu totally interrupts whatever you were doing, so it’s a good idea to disable the thumb-pad menu option. 
+
+This can be disabled in-game as follows:
+(get this - josh)
+
+There you have it. All set to enjoy some sweet Oculus goodness on your Vive. Do it for yourself. Do it for the children. Do it for the Zuck who can clearly see the future and wants you to be a part of it. Just look how happy it makes him when people use his stuff.
+
+<img src="../assets/img/Emperor-Zuckerberg-and-his-minions.webp" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 “In the Land of the Blind the One-Eyed Man is King” 
-some guy
+[some guy](https://en.wikipedia.org/wiki/Erasmus)
 
 #### Potential Issues:
 Oculus Games Won’t Install – as soon as I bought Stormland I started the download. The download completed but when I clicked the “Install” button nothing happened. This is what happens when your Oculus games are saved at C:\Program Files\Oculus\Software (or anywhere in the C:\Program Files\Oculus folder).
@@ -172,7 +200,7 @@ C:\Users\your_username\AppData\Local\Oculus\AppData\139725073420658\325779242430
 
 1.	From there you can delete or rename the files contained in the folder. Your computer should still be offline at this point or it will simply retrieve your cloud saves and restore them to this location. To avoid this, launch Stormland while offline and begin the game. This means setting up dominant hand, etc and actually starting the level. This will create two new save and preference files. Once these have been created (you will see them again in C:\Users\your_username\AppData\Local\Oculus\AppData\139725073420658\3257792424300278\cloud\data) you can exit the game and go online again. When you next launch the game it will overwrite the cloud saves with the newly created files so your ‘progress restart’ will be replace the cloud saves. You are supposed to get a warning from Steam asking if you’d like to overwrite the cloud saves or the local saves but I did not get this alert. Instead SteamVR just loaded the new local save/pref files and used them to overwrite my cloud progress. This is what I wanted in t his case but be aware you can overwrite cloud saves easily and potentially lose your progress by following these steps.
 
-Finally, you are all set! Fire up Stormland and experience the goodness of Oculus. Personally I think they should officially support Revive as ti gives Vive owners great exposure to Oculus software and makes people like me much more likely to consider buying Oculus hardware in the future. Also, Oculus publicly supports OpenXR. Other members include AMD, Apple, Epic Games, Google, Huawei, Intel, Nvidia, Qualcomm, Samsung, Sony, Valve, acer, Alibaba, Amazon, Broadcom, Facebook, EA, Hitachi, HP, HTC, Nintendo, Nokia, Panasonic, Red Hat, Unity, VMWare and MANY more! Personally I’d say that the future of VR/AR/XR is looking extremely promising! Hopefully this means that cross-platform interoperability is the plan for the future and we will be able to share software across platforms like this even more going forward. 
+Finally, you are all set! Fire up Stormland and experience the goodness of Oculus. It probably takes a performance hit due to Revive overhead but hopefully this isn't needed much longer. [OpenXR](https://www.khronos.org/openxr/) is here and Oculus and Facebook are both members. Other members include Amazon, Apple, Google, Intel, Nvidia, Qualcomm, Samsung, Sony, Valve, Nintendo, Nokia, Panasonic, EA, Epic Games, AMD, Huawei, Acer, Alibaba, Broadcom, Hitachi, HP, HTC, Red Hat, Unity, VMWare and [many](https://www.khronos.org/members/list) more!
 
 Thanks,
 
