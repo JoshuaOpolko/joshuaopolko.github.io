@@ -49,16 +49,15 @@ For Vive setups you will not be configuring the headset/hardware. The hardware s
 
 <img src="../assets/img/New-Revive-Button-in-SteamVR.png" class="img-responsive" alt="New Revive Button in SteamVR - Yaay!" width="1000">
 
-Launch Stormland from the menu that appears. You can also launch it from the Steam menu.
+For future refernce, you can launch Stormland from the Revive Dashboard that appears after clicking the Revive button. You can also launch it from the Steam menu like any other game.
+
 By default there is no way to press the in-game Pause Menu button with the Valve Index Controllers. We will assign the left A button to this function.
-Press the System button on the Knuckles and select Show Old Binding UI
+Launch SteamVR and once it's running press the System button on the Knuckles to bring up the System Menu.
+1. Select Settings
+2. Click Controllers
+3. Click Show Old Binding UI
 
-<img src="../assets/img/SteamVR-Show-Old-Controller-Bindings.png" class="img-responsive" alt="SteamVR Show Old Controller Binding UI" width="1000">
-
-By default there is no way to press the Menu button with the Valve Index Controllers.
-Press the System button on the Knuckles and select Show Old Binding UI
-
-<img src="../assets/img/SteamVR-Show-Old-Controller-Bindings.png" class="img-responsive" alt="SteamVR - Show Old Controller Bindings" width="1000">
+<img src="../assets/img/steamvr-controller-settings.png" class="img-responsive" alt="SteamVR Controller Settings" width="1000">
 
 Select Stormland on Oculus
 On the screen entitled “Change Bindings For Stormland on Oculus” you can select a pre-programmed binding. A binding is basically just a list of which actions go with which buttons. We can use the Official Binding for Revive/Index as a template and then tweak it to fix the A buttons (further down this page). 
