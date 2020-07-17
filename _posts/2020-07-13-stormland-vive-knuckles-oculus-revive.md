@@ -44,17 +44,20 @@ Below are my system and Steam Performance data.
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 2.	Follow the installation default options until you get to the screen instructing you to connect your headset. Do not complete this step.
+
 3.	Click the Skip Setup button. 
 
 <img src="../assets/img/Oculus-connect-your-headset-skip-this.png" class="img-responsive" alt="Skip Setup" width="1000">
 
-For Vive setups you will not be configuring the headset/hardware. The hardware setup step is left incomplete indefinitely. Proceed to the next step.
-4.	Install the latest version of the ReviveInstaller.exe from github (the one with the highest version number – v2.1.1 as of July 2020)
+For Vive setups you will not be setting up the controllers. The hardware setup step is left incomplete indefinitely. Proceed to the next step.
+Install the latest version of the ReviveInstaller.exe from github (the one with the highest version number – v2.1.1 as of July 2020)
 
 <img src="../assets/img/Revive-Github-versions.png" class="img-responsive" alt="Download the latest version of ReviveInstaller.exe" width="1000">
 
 5.	Launch Oculus and purchase [Stormland](https://www.oculus.com/experiences/rift/1360938750683878/?ranking_trace=117254459210015_1360938750683878_SKYLINEWEB_15sLveFiOUbKwuHmu)
-6.	Launch SteamVR and put on your headset.
+
+6.	Launch SteamVR and put on the headset.
+
 7.	Open the SteamVR dashboard and note that there is now a new button called Revive. You can click this to bring up the Revive dashboard with all your games. For now just note it’s location. We still need to set up the controllers. You can launch your Oculus titles using the Revive button or from the regular SteamVR menu.
 
 <img src="../assets/img/New-Revive-Button-in-SteamVR.png" class="img-responsive" alt="New Revive Button in SteamVR - Yaay!" width="1000">
@@ -63,6 +66,7 @@ For future refernce, you can launch Stormland from the Revive Dashboard that app
 
 By default there is no way to press the in-game Pause Menu button with the Valve Index Controllers. We will assign the left A button to this function.
 Launch SteamVR and once it's running press the System button on the Knuckles to bring up the System Menu.
+
 1. Select Settings
 2. Click Controllers
 3. Click Show Old Binding UI
@@ -75,6 +79,7 @@ On the screen entitled “Change Bindings For Stormland on Oculus” you can sel
 <img src="../assets/img/Stormland_on_oculus_edit_controller_bindings.png" class="img-responsive" alt="Stormland On Oculus Edit Controller Bindings" width="1000">
 
 ### How to Change Controller Bindings Valve Index (Knuckles) Controllers for Stormland: 
+
 a.	Identify the Official Bindings section.
 b.	Locate Revive for Index published by the developer. 
 c.	Activate Revive for Index to set them as your Current Binding. 
