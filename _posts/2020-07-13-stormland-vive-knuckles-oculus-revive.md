@@ -139,10 +139,7 @@ This can be disabled in-game as follows:
 
 There you have it. All set to enjoy some sweet Oculus goodness on your Vive. Do it for yourself. Do it for the children. Do it for the Zuck who can clearly see the future and wants you to be a part of it. Just look how happy it makes him when people use his stuff.
 
-<img src="../assets/img/Emperor-Zuckerberg-and-his-minions.webp" class="img-responsive" alt="Stormland Rocks!" width="1000">
-
-“In the Land of the Blind the One-Eyed Man is King” 
-[some guy](https://en.wikipedia.org/wiki/Erasmus)
+<img src="../assets/img/Emperor-Zuckerberg-and-his-minions.webp" class="img-responsive" alt="In the Land of the Blind the One-Eyed Man is King" width="1000">
 
 #### Potential Issues:
 Oculus Games Won’t Install – as soon as I bought Stormland I started the download. The download completed but when I clicked the “Install” button nothing happened. This is what happens when your Oculus games are saved at C:\Program Files\Oculus\Software (or anywhere in the C:\Program Files\Oculus folder).
