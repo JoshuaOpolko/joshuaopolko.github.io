@@ -117,9 +117,10 @@ After you’ve set the buttons correctly the button assignments should look like
 
 Ensure the A buttons have been set as follows:
 
-1.	Left A Button: Click = Menu button
-2.	Right A Button: Click = A/X press
-3.	Save Personal Binding
+Left A Button: Click = Menu button
+Right A Button: Click = A/X press
+
+Click Save Personal Binding to keep your edits.
 
 Click the Back button in the top left corner until you are back in the game. 
 
