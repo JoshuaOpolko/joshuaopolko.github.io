@@ -65,11 +65,23 @@ Install the latest version of the ReviveInstaller.exe from github (the one with 
 
 <img src="../assets/img/New-Revive-Button-in-SteamVR.png" class="img-responsive" alt="New Revive Button in SteamVR - Yaay!" width="1000">
 
-For future refernce, you can launch Stormland from the Revive Dashboard that appears after clicking the Revive button. (get pic - josh)You can also launch it from the Steam menu like any other game.
+For future refernce, you can launch Stormland from the Revive Dashboard that appears after clicking the Revive button.
 
-By default there is no way to press the in-game Pause Menu button with the Valve Index Controllers and the jump button doesn't work.
+<img src="../assets/img/revive-dashboard.png" class="img-responsive" alt="New Revive Button in SteamVR - Yaay!" width="1000">
 
-We will assign the left A button to the Pause Menu and the right A button to Jump.
+You can also launch your Oculus games from the Steam menu like any other game.
+
+
+### How to Change Controller Bindings Valve Index (Knuckles) Controllers for Stormland: 
+
+Playing Oculus with Index Knuckles introduces some challenges. Index controllers have very different buttons and sensors than Oculus ones. This means Oculus games need a little attention to get them running beautifuly on the Knuckles. 
+
+The two issues I've come across so far are:
+* A. The lack of a dedicated button for activating the Pause Menu
+* B. The lack of a jump button
+* C. The tendancy of the default bindings to grab your guns anytime your hand rests at your side (shockingly irritating when it happens btw)
+
+So into the Steam Bindings settings we go to fix this.
 
 Launch SteamVR and once it's running press the System button on the Knuckles to bring up the System Menu.
 
@@ -87,8 +99,6 @@ We can use the Official Binding for Revive/Index as a template and then edit it 
 
 <img src="../assets/img/Stormland_on_oculus_edit_controller_bindings.png" class="img-responsive" alt="Stormland On Oculus Edit Controller Bindings" width="1000">
 
-### How to Change Controller Bindings Valve Index (Knuckles) Controllers for Stormland: 
-
 A.	Identify the Official Bindings section.
 
 B.	Locate "Stormland - Index Controllers - Grip Fix" and click on Activate. This will fix a surprisingly annoying bug where the Index controllers constantly grab your guns every time either hand comes anywhere near your waist. 
@@ -103,13 +113,24 @@ Click Edit on your new Current Binding. This way you can manually assign the lef
 
 <img src="../assets/img/stormland-fix-grip-index-controllers-edit.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
-Once you’ve clicked that Edit button you’ll see all buttons their actions. We're only here for the Left and Right A buttons.
+Once you’ve clicked that Edit button you’ll see all buttons their actions. We're here to fix the Left and Right A buttons and the Thumbpads.
 
 Each button can be edited by clicking the little pencil icon that appears when you point at the text in each box. Don't forget to De-Select Mirror Mode so you can assign the right and left controller buttons independently.
 
 <img src="../assets/img/SteamVR-Edit-Left-and-Right-A-buttons-actions.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 After clicking the Edit (pencil icon) for the button you are re-assigning, you can assign the function you want.  
+
+<img src="../assets/img/stormland-assign-function-to-button.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+
+When you click each buttons assignment box it will bring up a list of all possible actions. Pick the one you want from the list.
+
+<img src="../assets/img/Stormland-Revive-Button-Assignment-Boolean-Actions.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+
+So now you know what to do. Scroll through the list until you find the Left A and Right A button sections.
+
+
+
 
 We will now set the Left A button to activate the Pause Menu and the Right A to be the Jump button. The Actions you can apply to the button can be seen in the picture below:
 
