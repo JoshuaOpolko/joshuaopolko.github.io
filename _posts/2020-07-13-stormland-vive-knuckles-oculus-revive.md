@@ -91,7 +91,9 @@ We can use the Official Binding for Revive/Index as a template and then edit it 
 
 A.	Identify the Official Bindings section.
 
-B.	Locate "Stormland - Index Controllers - Grip Fix" and click on Activate. This will fix a surprisingly annoying bug where the Index controllers constantly pickup your guns every time either hand comes anywhere near your waist where the guns are holstered. If you don't fix this with the "Grip Fix" bindings you will have to play the game while T-Posing to avoid wielding your guns when you really don't want to.
+B.	Locate "Stormland - Index Controllers - Grip Fix" and click on Activate. This will fix a surprisingly annoying bug where the Index controllers constantly grab your guns every time either hand comes anywhere near your waist. 
+
+It's seriously aweful.. Always grabbing a gun when you let your hands rest by your side. If you don't fix this with the "Grip Fix" bindings you basically have to play the game while T-Posing the whole time. 
 
 <img src="../assets/img/stormland-fix-grip-index-controllers.png" class="img-responsive" alt="SteamVR Controller Settings" width="1000">
 
