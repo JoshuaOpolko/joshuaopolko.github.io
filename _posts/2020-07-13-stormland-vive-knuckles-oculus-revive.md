@@ -27,13 +27,13 @@ As much fun as it is, Revive is not officially supported or endorsed by Oculus s
 * [Valve Index Controllers](https://www.valvesoftware.com/en/index/controllers)
 * HTC Vive Headset 
 * [BaseStation ver 1.0](https://www.vive.com/eu/accessory/base-station/)
+* 1TB Hard Disk Drive - 7200 RPM SATA
 
 *Half-Life Alyx*
 <img src="../assets/img/Half-Life-Alyx-Task-Manager.Steam.png" class="img-responsive" alt="Half-Life Alyx CPU/RAM/GPU/Display" width="1000">
 
 *Stormland on Revive on Oculus*
 <img src="../assets/img/cpu.ram.gpu.display.stormlands.png" class="img-responsive" alt="Stormland CPU/RAM/GPU/Display" width="1000">
-#### TO BE ADDED - josh
 
 
 #### How to Install and Configure Revive for HTC Vive:
@@ -91,19 +91,20 @@ We can use the Official Binding for Revive/Index as a template and then edit it 
 
 A.	Identify the Official Bindings section.
 
-B.	Locate Revive for Index published by the developer. 
+B.	Locate "Stormland - Index Controllers - Grip Fix" and click on Activate. This will fix a surprisingly annoying bug where the Index controllers constantly pickup your guns every time either hand comes anywhere near your waist where the guns are holstered. If you don't fix this with the "Grip Fix" bindings you will have to play the game while T-Posing to avoid wielding your guns when you really don't want to.
 
-C.	Activate Revive for Index to set them as your Current Binding. 
- (something missing here - josh)
+<img src="../assets/img/stormland-fix-grip-index-controllers.png" class="img-responsive" alt="SteamVR Controller Settings" width="1000">
+
+C. Once the Binding is Activated it becomes your Current Binding. This means you can now edit the Bindings so the A buttons will work properly.
 Click Edit on your new Current Binding. This way you can manually assign the left and right A buttons.
 
-<img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/stormland-fix-grip-index-controllers-edit.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 Once you’ve clicked Edit you’ll see all buttons their actions. We're only here for the Left and Right A buttons.
 
 Each button can be edited by clicking the little pencil icon that appears when you point at the text in each box. 
 
-<img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/SteamVR-Edit-Left-and-Right-A-buttons-actions.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 After clicking the Edit (pencil icon) for the button you are re-assigning, you can assign the function you want.  
 
@@ -111,7 +112,7 @@ Remember to disable Mirror Mode in the middle of the screen to set different con
 
 We will do this to make the Left A activate the Pause Menu and the Right A to be the Jump button. The Actions you can apply to the button can be seen in the picture below:
 
-<img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/SteamVR-Controller-Bindings-Stormland-A-Button-Assignments.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 Edit the button assignments for both A buttons to select the accompanying function for each. 
 
