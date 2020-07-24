@@ -93,43 +93,49 @@ A.	Identify the Official Bindings section.
 
 B.	Locate "Stormland - Index Controllers - Grip Fix" and click on Activate. This will fix a surprisingly annoying bug where the Index controllers constantly grab your guns every time either hand comes anywhere near your waist. 
 
-It's seriously aweful.. Always grabbing a gun when you let your hands rest by your side. If you don't fix this with the "Grip Fix" bindings you basically have to play the game while T-Posing the whole time. 
+It's seriously aweful.. Always grabbing a gun when you let your hands rest by your side. If you don't fix this with the "Grip Fix" bindings you basically have to play the game while T-Posing or you're constantly grabbing your guns. 
 
 <img src="../assets/img/stormland-fix-grip-index-controllers.png" class="img-responsive" alt="SteamVR Controller Settings" width="1000">
 
-C. Once the Binding is Activated it becomes your Current Binding. This means you can now edit the Bindings so the A buttons will work properly.
+C. Once the "Stormland - Index Controllers - Grip Fix" Binding is Activated it becomes your Current Binding. This means you can now edit it in case any buttons need tweaking. In our case I had to edit the A buttons on the Left and Right controller.
+
 Click Edit on your new Current Binding. This way you can manually assign the left and right A buttons.
 
 <img src="../assets/img/stormland-fix-grip-index-controllers-edit.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
-Once you’ve clicked Edit you’ll see all buttons their actions. We're only here for the Left and Right A buttons.
+Once you’ve clicked that Edit button you’ll see all buttons their actions. We're only here for the Left and Right A buttons.
 
-Each button can be edited by clicking the little pencil icon that appears when you point at the text in each box. 
+Each button can be edited by clicking the little pencil icon that appears when you point at the text in each box. Don't forget to De-Select Mirror Mode so you can assign the right and left controller buttons independently.
 
 <img src="../assets/img/SteamVR-Edit-Left-and-Right-A-buttons-actions.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 After clicking the Edit (pencil icon) for the button you are re-assigning, you can assign the function you want.  
 
-Remember to disable Mirror Mode in the middle of the screen to set different controls for right and left controllers. 
-
-We will do this to make the Left A activate the Pause Menu and the Right A to be the Jump button. The Actions you can apply to the button can be seen in the picture below:
+We will now set the Left A button to activate the Pause Menu and the Right A to be the Jump button. The Actions you can apply to the button can be seen in the picture below:
 
 <img src="../assets/img/SteamVR-Controller-Bindings-Stormland-A-Button-Assignments.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 Edit the button assignments for both A buttons to select the accompanying function for each. 
 
-Valve Index buttons are so full of sensors that they have different settings for Touching the button versus Clicking it. 
+The settings should be as follows:
 
-We only want to change the Click behavior although obviously you can set the touch to anything you’d like. I left mine as they were.
+* Left A Button: Click = Menu button
+* Right A Button: Click = A/X press
+
+Valve Index buttons can be assigned different functions for Click or Touch. Faaaaancy!
+
+We only want to change the Click behavior although you can set the touch to anything you’d like. I left mine as they were.
 
 After you’ve set the buttons correctly the button assignments should look like this:
 
 <img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
-Ensure the A buttons have been set as follows:
+The other button to fix while we're here is the thumbpad. Specifically how it is assigned to the Pause Menu by default. 
 
-Left A Button: Click = Menu button
-Right A Button: Click = A/X press
+This means that everytime your thumb rests on the thumbpad even slightly, the game is paused as you go into the menu. Horrible! Especially in a gun-fight or when your running away from something. 
+
+Really anytime you're involved in any action these thumbpad menu buttons are terrible. This is because we're using Index controllers so can be fixed in Steam.
+
 
 Click Save Personal Binding to keep your edits.
 
@@ -140,8 +146,11 @@ Try the buttons, Left A should now open the Pause Menu and Right A should make y
 This is fine, the button is working properly and will make you Jump again when you have left the base.
 
 Disable thumb-pad press binding - By default, the Index Thumb Pads are assigned to open the Pause Menu. 
+stormland-index-controllers-menu-thumpad-fix.png
 
-This becomes frustrating in-game when you accidentally press the pads which are located so conveniently under each thumb. 
+
+
+Go back into the 
 
 The popup menu totally interrupts whatever you were doing, so it’s a good idea to disable the thumb-pad menu option. 
 
