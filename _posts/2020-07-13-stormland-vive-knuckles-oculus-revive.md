@@ -19,7 +19,7 @@ Don’t forget to check the [compatibility list](https://github.com/LibreVR/Revi
 
 As much fun as it is, Revive is not officially supported or endorsed by Oculus so they could block it at any time. This means you are taking the risk that all your Oculus games could disappear at any time or at least your ability to play them... But that is the reality of any jailbreaker, modder, experimenter, enthusiast, hobbiest, etc and what usually gets you closer to the good stuff. Besides, you didn’t buy put together your VR rig just to play phone games on. You want something with a little substance. So for those of us willing to take the risk there’s Revive. 
 
-#### System:  
+#### System 
 * [Intel 8700 I7](https://ark.intel.com/content/www/us/en/ark/products/126686/intel-core-i7-8700-processor-12m-cache-up-to-4-60-ghz.html)
 * 32 GB RAM 
 * [Nvidia Geforce 1080ti](https://www.nvidia.com/en-sg/geforce/products/10series/geforce-gtx-1080-ti/)
@@ -178,9 +178,9 @@ Also your Trackpads will not bring up the menu now, only the Right-A button will
 
 That is somewhat similar to the Oculus setup so I use it this way but you can obviously set whatever buttons you prefer to do whatever you want.
 
-There you have it. All set to enjoy some sweet Oculus goodness on your Vive. 
+There you have it. All set to enjoy some sweet Oculus goodness on your HTC Vive. 
 
-Do it for yourself. Do it for the children. Do it for the Zuck who can clearly see the future and wants you to be a part of it. Just look how happy it makes him when people use his stuff.
+So do it for yourself. Do it for the children. Do it for the Zuck who can clearly see the future and wants you to be a part of it. Just look how happy it makes him when people use his stuff.
 
 <img src="../assets/img/Emperor-Zuckerberg-and-his-minions.webp" class="img-responsive" alt="In the Land of the Blind the One-Eyed Man is King" width="1000">
 
@@ -228,7 +228,7 @@ Now that your game file location is no longer C:\Program Files\Oculus\Software y
 Also, in case of further issues there is a Revive wiki
 If you’re really stuck or if you love Revive so much you simply must tell the developers and community, there’s a Revive Discord too.
 
-##### Can’t restart your progress
+##### How to restart your progress in Stormland
 
 Stormland doesn’t really provide an option for restarting your progress. 
 
