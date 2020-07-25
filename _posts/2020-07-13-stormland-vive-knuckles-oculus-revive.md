@@ -252,7 +252,7 @@ While you are in the settings, it is a good idea to set the new location as the 
 
 Now that your game file location is no longer C:\Program Files\Oculus\Software you will be able to install & play Oculus games. Woohoo! You made it! Give Stormland a try.
 Also, in case of further issues there is a Revive wiki
-If you’re really stuck or if you love Revive so much you simply must tell the developers and community, there’s a Revive Discord too.
+If you’re really stuck or if you love Revive so much you simply must tell the developers and community, there’s a [Revive Discord](https://discord.gg/umh2zad) too.
 
 ---
 
