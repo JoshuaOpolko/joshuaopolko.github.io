@@ -47,9 +47,7 @@ As much fun as it is, Revive is not officially supported or endorsed by Oculus s
 
 <img src="../assets/img/Oculus-connect-your-headset-skip-this.png" class="img-responsive" alt="Skip Setup" width="1000">
 
-For Vive setups you will not be setting up the controllers. 
-
-The hardware setup step is left incomplete indefinitely. 
+For our installation we will not be setting up controllers. This is because we're not using Oculus controllers. The hardware setup step is left incomplete indefinitely. Revive must hook into the hardware interface somehow so we leave the setup incomplete at this stage.
 
 Proceed to the next step.
 
