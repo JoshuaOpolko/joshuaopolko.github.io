@@ -70,16 +70,16 @@ For future refernce, you can launch Stormland from the Revive Dashboard that app
 You can also launch your Oculus games from the Steam menu like any other game.
 
 
-### How to Change Controller Bindings Valve Index (Knuckles) Controllers for Stormland: 
+### How to Fix the A Buttons and Trackpads for Stormland - Valve Index (Knuckles) Controllers: 
 
 Playing Oculus with Index Knuckles introduces some challenges. Index controllers have very different buttons and sensors than Oculus. 
 
 This means Oculus games need a little attention to get them running beautifuly on the Knuckles. 
 
-The two issues I've come across so far are:
+Issues related to using Knuckles with Stormland:
 * No menu button
 * No jump button
-* Thumbpad is Menu which is horrible
+* Thumbpad Menu is terrible
 
 So into the Steam Bindings settings we go to fix this.
 
@@ -99,25 +99,25 @@ Select a binding. A binding defines which actions are bound to which buttons.
 
 There is an Official Binding for Revive/Index Binding but it doesn't fix the Grip Sensitivity problem so we will choose the Stormland - Index Controllers - Grip Fix Binding instead.
 
-A.	Identify the Stormland - Index Controllers - Grip Fix Bindings section.
+Identify the Stormland - Index Controllers - Grip Fix Bindings section.
 
-B.	Locate "Stormland - Index Controllers - Grip Fix" and click on Activate. This will fix the Grip issue so you only grab your guns when you want to.
+Locate "Stormland - Index Controllers - Grip Fix" and click on Activate. This will fix the Grip issue so you only grab your guns when you want to.
 
 <img src="../assets/img/stormland-fix-grip-index-controllers.png" class="img-responsive" alt="SteamVR Controller Settings" width="1000">
 
-C. Once the "Stormland - Index Controllers - Grip Fix" Binding is Activated it becomes your Current Binding. This means you can now edit it in case any buttons need tweaking. In our case I had to edit the A buttons on the Left and Right controller.
+C. Once the "Stormland - Index Controllers - Grip Fix" Binding is Activated it becomes your Current Binding. This means you can now edit it in case any buttons need tweaking.
 
 Click Edit on your new Current Binding. This way you can manually assign the left and right A buttons.
 
 <img src="../assets/img/stormland-fix-grip-index-controllers-edit.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
-Once you’ve clicked that Edit button you’ll see all buttons their actions. We only have to fix the Left/Right A buttons and disable the trackpads.
+Once you’ve clicked the Edit button you’ll see all of the buttons and their assigned actions. We're fixing the Left/Right A buttons and disabling the trackpad menu
 
 Each button can be edited by clicking the little pencil icon that appears when you point at the text in each box. Don't forget to De-Select Mirror Mode so you can assign the right and left controller buttons independently.
 
 <img src="../assets/img/SteamVR-Edit-Left-and-Right-A-buttons-actions.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
-After clicking the Edit (pencil icon) for the button you are re-assigning, you can assign the function you want.  
+After clicking the Edit (pencil icon) for the button you are re-assigning, you can assign the function you want. Don't forget to click the little Check Mark icon to save your changes.
 
 <img src="../assets/img/stormland-assign-function-to-button.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
@@ -127,10 +127,13 @@ When you click each buttons assignment box it will bring up a list of all possib
 
 So now you know what to do. Scroll through the list until you find the Left A and Right A button sections.
 
-We will assign the following:
+Values should be:
 
-* Left A button = Pause Menu
-* Right A button = Jump
+* Left A Button Click = Pause Menu
+* Left A Button Touch = A/X Touch
+
+* Right A Button Click = Jump
+* Right A Button Touch = A/X Touch
 
 Edit the button assignments for both A buttons to select the accompanying function for each.
 
@@ -143,7 +146,7 @@ The settings should be as follows:
 * Left A Button: Click = Menu button
 * Right A Button: Click = A/X press
 
-With Index Controllers there's a painful issue where the menu pops up every time you even slightly touch the Trackpad.
+With Index Controllers there's an annoying problem where the menu pops up every time you even slightly touch the Trackpad.
 
 This totally breaks the flow of the game and is very irritating but fortunately can also be fixed.
 
@@ -153,9 +156,9 @@ The Trackpad sections should look like this:
 
 <img src="../assets/img/stormland-index-controllers-menu-thumpad-fix.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
-Values:
+Values for both Trackpads should be:
 
-* Thumpbad Click = None
+* Trackpad Click = None
 * Touch = Thumbrest touch
 
 1. Click the check mark to save your change.
@@ -168,8 +171,13 @@ Try the buttons, Left A should now open the Pause Menu and Right A should make y
 
 This is fine, the button is working properly and will make you Jump again when you have left the base.
 
-Also your Trackpads will not bring up the menu now, only the Right-A button will. That is somewhat similar to the Oculus setup so I use it this way but you can obviously set whatever buttons you prefer to do whatever you want.
-There you have it. All set to enjoy some sweet Oculus goodness on your Vive. Do it for yourself. Do it for the children. Do it for the Zuck who can clearly see the future and wants you to be a part of it. Just look how happy it makes him when people use his stuff.
+Also your Trackpads will not bring up the menu now, only the Right-A button will. 
+
+That is somewhat similar to the Oculus setup so I use it this way but you can obviously set whatever buttons you prefer to do whatever you want.
+
+There you have it. All set to enjoy some sweet Oculus goodness on your Vive. 
+
+Do it for yourself. Do it for the children. Do it for the Zuck who can clearly see the future and wants you to be a part of it. Just look how happy it makes him when people use his stuff.
 
 <img src="../assets/img/Emperor-Zuckerberg-and-his-minions.webp" class="img-responsive" alt="In the Land of the Blind the One-Eyed Man is King" width="1000">
 
