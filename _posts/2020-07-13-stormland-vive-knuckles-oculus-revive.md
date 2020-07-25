@@ -4,7 +4,7 @@ title: Oculus Stormland on HTC Vive With Index Knuckles
 subtitle: Get more out of your Vive with Revive!
 
 ---
-<img src="../assets/img/Stormland.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/Stormland.png" class="img-responsive" alt="Stormland on Vive Rocks!" width="1000">
  
 Are you an HTC Vive owner looking for new games? Tired of seeing the same old SteamVR titles month after month? Looking for quality entertainment but not sure where to find it? 
 
@@ -30,42 +30,44 @@ As much fun as it is, Revive is not officially supported or endorsed by Oculus s
 * 1TB Hard Disk Drive - 7200 RPM SATA
 
 *Half-Life Alyx*
-<img src="../assets/img/Half-Life-Alyx-Task-Manager.Steam.png" class="img-responsive" alt="Half-Life Alyx CPU/RAM/GPU/Display" width="1000">
+<img src="../assets/img/Half-Life-Alyx-Task-Manager.Steam.png" class="img-responsive" alt="Half-Life-Alyx-Task-Manager.Steam" width="1000">
 
 *Stormland on Revive on Oculus*
-<img src="../assets/img/cpu.ram.gpu.display.stormlands.png" class="img-responsive" alt="Stormland CPU/RAM/GPU/Display" width="1000">
+<img src="../assets/img/cpu.ram.gpu.display.stormlands.png" class="img-responsive" alt="cpu.ram.gpu.display.stormlands.png" width="1000">
 
 
 #### How to Install and Configure Revive for HTC Vive:
 1.	Install [Oculus Rift S Software](https://www.oculus.com/setup/) but do not set up the headset.
 
-<img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Oculus-Rift-S-Download-Software" width="1000">
 
 2.	Follow the installation default options until you get to the screen instructing you to connect your headset. Do not complete this step.
 
 3.	Click the Skip Setup button. 
 
-<img src="../assets/img/Oculus-connect-your-headset-skip-this.png" class="img-responsive" alt="Skip Setup" width="1000">
+<img src="../assets/img/Oculus-connect-your-headset-skip-this.png" class="img-responsive" alt="Oculus-connect-your-headset-skip-this" width="1000">
 
 For our installation we will not be setting up controllers. This is because we're not using Oculus controllers. The hardware setup step is left incomplete indefinitely. Revive must hook into the hardware interface somehow so we leave the setup incomplete at this stage.
 
-Proceed to the next step.
+Next we download and install the latest version of the ReviveInstaller.exe from the [LibreVR/Revive Github](https://github.com/LibreVR/Revive/releases/tag/2.1.1)
 
-Install the latest version of the ReviveInstaller.exe from github (the one with the highest version number – v2.1.1 as of July 2020)
+Grab the one with the highest version number – v2.1.1 as of July 2020
 
 <img src="../assets/img/Revive-Github-versions.png" class="img-responsive" alt="Download the latest version of ReviveInstaller.exe" width="1000">
 
-5.	Launch Oculus and purchase [Stormland](https://www.oculus.com/experiences/rift/1360938750683878/?ranking_trace=117254459210015_1360938750683878_SKYLINEWEB_15sLveFiOUbKwuHmu)
+5.	Launch Oculus and purchase [Stormland](https://www.oculus.com/experiences/rift/1360938750683878/?ranking_trace=117254459210015_1360938750683878_SKYLINEWEB_15sLveFiOUbKwuHmu).
 
-6.	Launch SteamVR and put on the headset.
+6.	Start SteamVR and put on the headset.
 
-7.	Open the SteamVR dashboard and note that there is now a new button called Revive. You can click this to bring up the Revive dashboard with all your games. For now just note it’s location. We still need to set up the controllers. You can launch your Oculus titles using the Revive button or from the regular SteamVR menu.
+7.	Open the SteamVR dashboard and note that there is now a new button called Revive. You can click this to bring up the Revive dashboard dislpaying all your Oculus games. For now just note it’s location. 
+
+We still need to set up the controllers. You can launch your Oculus titles using the Revive button or from the regular SteamVR menu.
 
 <img src="../assets/img/New-Revive-Button-in-SteamVR.png" class="img-responsive" alt="New Revive Button in SteamVR - Yaay!" width="1000">
 
 For future refernce, you can launch Stormland from the Revive Dashboard that appears after clicking the Revive button.
 
-<img src="../assets/img/revive-dashboard.png" class="img-responsive" alt="New Revive Button in SteamVR - Yaay!" width="1000">
+<img src="../assets/img/revive-dashboard.png" class="img-responsive" alt="revive-dashboard" width="1000">
 
 You can also launch your Oculus games from the Steam menu like any other game.
 
@@ -103,27 +105,27 @@ Identify the Stormland - Index Controllers - Grip Fix Bindings section.
 
 Locate "Stormland - Index Controllers - Grip Fix" and click on Activate. This will fix the Grip issue so you only grab your guns when you want to.
 
-<img src="../assets/img/stormland-fix-grip-index-controllers.png" class="img-responsive" alt="SteamVR Controller Settings" width="1000">
+<img src="../assets/img/stormland-fix-grip-index-controllers.png" class="img-responsive" alt="stormland-fix-grip-index-controllers" width="1000">
 
 C. Once the "Stormland - Index Controllers - Grip Fix" Binding is Activated it becomes your Current Binding. This means you can now edit it in case any buttons need tweaking.
 
 Click Edit on your new Current Binding. This way you can manually assign the left and right A buttons.
 
-<img src="../assets/img/stormland-fix-grip-index-controllers-edit.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/stormland-fix-grip-index-controllers-edit.png" class="img-responsive" alt="stormland-fix-grip-index-controllers-edit" width="1000">
 
 Once you’ve clicked the Edit button you’ll see all of the buttons and their assigned actions. We're fixing the Left/Right A buttons and disabling the trackpad menu
 
 Each button can be edited by clicking the little pencil icon that appears when you point at the text in each box. Don't forget to De-Select Mirror Mode so you can assign the right and left controller buttons independently.
 
-<img src="../assets/img/SteamVR-Edit-Left-and-Right-A-buttons-actions.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/SteamVR-Edit-Left-and-Right-A-buttons-actions.png" class="img-responsive" alt="SteamVR-Edit-Left-and-Right-A-buttons-actions" width="1000">
 
 After clicking the Edit (pencil icon) for the button you are re-assigning, you can assign the function you want. Don't forget to click the little Check Mark icon to save your changes.
 
-<img src="../assets/img/stormland-assign-function-to-button.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/stormland-assign-function-to-button.png" class="img-responsive" alt="stormland-assign-function-to-button" width="1000">
 
 When you click each buttons assignment box it will bring up a list of all possible actions. Pick the one you want from the list.
 
-<img src="../assets/img/Stormland-Revive-Button-Assignment-Boolean-Actions.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/Stormland-Revive-Button-Assignment-Boolean-Actions.png" class="img-responsive" alt="Stormland-Revive-Button-Assignment-Boolean-Actions" width="1000">
 
 So now you know what to do. Scroll through the list until you find the Left A and Right A button sections.
 
@@ -141,7 +143,7 @@ Edit the button assignments for both A buttons to select the accompanying functi
 
 The Actions you can apply to the button can be seen in the picture below:
 
-<img src="../assets/img/stormland-index-knuckles-a-buttons.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/stormland-index-knuckles-a-buttons.png" class="img-responsive" alt="stormland-index-knuckles-a-buttons.png" width="1000">
 
 The settings should be as follows:
 
@@ -157,7 +159,7 @@ Scroll up to the Trackpad section and change their definitions the same way you 
 
 The Trackpad sections should look like this:
 
-<img src="../assets/img/stormland-index-controllers-menu-thumpad-fix.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/stormland-index-controllers-menu-thumpad-fix.png" class="img-responsive" alt="stormland-index-controllers-menu-thumpad-fix" width="1000">
 
 Values for both Trackpads should be:
 
@@ -206,15 +208,15 @@ Launch the Oculus app from the Start menu, taskbar, or desktop.
 2.	Click General.
 3.	Click Edit in the Library Locations section.
 
-<img src="../assets/img/oculus-settings-location.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/oculus-settings-location.png" class="img-responsive" alt="oculus-settings-location" width="1000">
 
 5.	Click Add Location.
 
-<img src="../assets/img/oculus-add-location.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/oculus-add-location.png" class="img-responsive" alt="oculus-add-location" width="1000">
 
 6.	Choose a new library location. You can use any folder you’d like or you can create a new folder by right-clicking the background in the Select Folder window. Once created, you can select the new folder for the new location by double-clicking it and clicking Select Folder.
 
-<img src="../assets/img/oculus-new-folder.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/oculus-new-folder.png" class="img-responsive" alt="oculus-new-folder-for-games" width="1000">
 
 7.	Double-click your new or chosen folder and click Select Folder.
 While you are in the settings, it is a good idea to set the new location as the default From the same menu as above (Settings/General)
@@ -222,7 +224,7 @@ While you are in the settings, it is a good idea to set the new location as the 
 2.	Click the elipses menu button
 3.	Select Make Default
 
-<img src="../assets/img/oculus-make-default.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/oculus-make-default.png" class="img-responsive" alt="oculus-make-games-folder-default" width="1000">
 
 Now that your game file location is no longer C:\Program Files\Oculus\Software you will be able to install & play Oculus games. Woohoo! You made it! Give Stormland a try.
 Also, in case of further issues there is a Revive wiki
@@ -261,11 +263,11 @@ If you don’t see the appdata folder you can enable it with the steps below:
 1.	Launch File Explorer
 2.	In the File Explorer click View then Options and then Change Folder and Search Options
 
-<img src="../assets/img/windows-change-view.png" class="img-responsive" alt="Stormland Rocks!" width="1000"> 
+<img src="../assets/img/windows-change-view.png" class="img-responsive" alt="windows-change-view" width="1000"> 
 
 3.	In the next window that pops up select View and then down below in Advance Settings ensure “Show hidden files, folders and drives” is checked.
 
-<img src="../assets/img/windows-show-hidden-files.png" class="img-responsive" alt="Stormland Rocks!" width="500">
+<img src="../assets/img/windows-show-hidden-files.png" class="img-responsive" alt="windows-show-hidden-files" width="500">
 
 4.	Click OK
 You will now see the the appdata folder in File Explorer. Go ahead and click through it until you are at the location below:
