@@ -130,6 +130,7 @@ So now you know what to do. Scroll through the list until you find the Left A an
 Values should be:
 
 * Left A Button Click = Pause Menu
+
 * Left A Button Touch = A/X Touch
 
 * Right A Button Click = Jump
