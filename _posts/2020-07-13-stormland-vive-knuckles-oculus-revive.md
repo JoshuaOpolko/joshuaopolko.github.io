@@ -127,36 +127,40 @@ When you click each buttons assignment box it will bring up a list of all possib
 
 So now you know what to do. Scroll through the list until you find the Left A and Right A button sections.
 
+We will assign the following:
 
+* Left A button = Pause Menu
+* Right A button = Jump
 
+Edit the button assignments for both A buttons to select the accompanying function for each.
 
-Set the Left A button to activate the Pause Menu and the Right A to be the Jump button. The Actions you can apply to the button can be seen in the picture below:
-josh til here
-<img src="../assets/img/SteamVR-Controller-Bindings-Stormland-A-Button-Assignments.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+The Actions you can apply to the button can be seen in the picture below:
 
-Edit the button assignments for both A buttons to select the accompanying function for each. 
+<img src="../assets/img/stormland-index-knuckles-a-buttons.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 The settings should be as follows:
 
 * Left A Button: Click = Menu button
 * Right A Button: Click = A/X press
 
-Valve Index buttons can be assigned different functions for Click or Touch. Faaaaancy!
+With Index Controllers there's a painful issue where the menu pops up every time you even slightly touch the Trackpad.
 
-We only want to change the Click behavior although you can set the touch to anything you’d like. I left mine as they were.
+This totally breaks the flow of the game and is very irritating but fortunately can also be fixed.
 
-After you’ve set the buttons correctly the button assignments should look like this:
+Scroll up to the Trackpad section and change their definitions the same way you did the A buttons.
 
-<img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+The Trackpad sections should look like this:
 
-The other button to fix while we're here is the thumbpad. Specifically how it is assigned to the Pause Menu by default. 
+<img src="../assets/img/stormland-index-controllers-menu-thumpad-fix.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
-This means that everytime your thumb rests on the thumbpad even slightly, the game is paused as you go into the menu. Horrible! Especially in a gun-fight or when your running away from something. 
+Values:
 
-Really anytime you're involved in any action these thumbpad menu buttons are terrible. This is because we're using Index controllers so can be fixed in Steam.
+* Thumpbad Click = None
+* Touch = Thumbrest touch
 
+1. Click the check mark to save your change.
 
-Click Save Personal Binding to keep your edits.
+2. Click Save Personal Binding to keep your edits.
 
 Click the Back button in the top left corner until you are back in the game. 
 
@@ -164,18 +168,7 @@ Try the buttons, Left A should now open the Pause Menu and Right A should make y
 
 This is fine, the button is working properly and will make you Jump again when you have left the base.
 
-Disable thumb-pad press binding - By default, the Index Thumb Pads are assigned to open the Pause Menu. 
-stormland-index-controllers-menu-thumpad-fix.png
-
-
-
-Go back into the 
-
-The popup menu totally interrupts whatever you were doing, so it’s a good idea to disable the thumb-pad menu option. 
-
-This can be disabled in-game as follows:
-(get this - josh)
-
+Also your Trackpads will not bring up the menu now, only the Right-A button will. That is somewhat similar to the Oculus setup so I use it this way but you can obviously set whatever buttons you prefer to do whatever you want.
 There you have it. All set to enjoy some sweet Oculus goodness on your Vive. Do it for yourself. Do it for the children. Do it for the Zuck who can clearly see the future and wants you to be a part of it. Just look how happy it makes him when people use his stuff.
 
 <img src="../assets/img/Emperor-Zuckerberg-and-his-minions.webp" class="img-responsive" alt="In the Land of the Blind the One-Eyed Man is King" width="1000">
