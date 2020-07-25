@@ -134,6 +134,7 @@ Values should be:
 * Left A Button Touch = A/X Touch
 
 * Right A Button Click = Jump
+
 * Right A Button Touch = A/X Touch
 
 Edit the button assignments for both A buttons to select the accompanying function for each.
@@ -145,6 +146,7 @@ The Actions you can apply to the button can be seen in the picture below:
 The settings should be as follows:
 
 * Left A Button: Click = Menu button
+
 * Right A Button: Click = A/X press
 
 With Index Controllers there's an annoying problem where the menu pops up every time you even slightly touch the Trackpad.
