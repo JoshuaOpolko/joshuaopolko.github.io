@@ -74,12 +74,6 @@ Grab the one with the highest version number – v2.1.1 as of July 2020
 
 3.	Open the SteamVR dashboard and note that there is now a new button called Revive. You can click this to bring up the Revive dashboard dislpaying all your Oculus games. For now just note it’s location. 
 
----
-
-#### Setup Index Controllers for Stormland in SteamVR
-
-We still need to set up the controllers. You can launch your Oculus titles using the Revive button or from the regular SteamVR menu.
-
 <img src="../assets/img/New-Revive-Button-in-SteamVR.png" class="img-responsive" alt="New Revive Button in SteamVR - Yaay!" width="1000">
 
 For future refernce, you can launch Stormland from the Revive Dashboard that appears after clicking the Revive button.
@@ -89,6 +83,10 @@ For future refernce, you can launch Stormland from the Revive Dashboard that app
 You can also launch your Oculus games from the Steam menu like any other game.
 
 ---
+
+#### Setup Index Controllers for Stormland in SteamVR
+
+We still need to set up the controllers. Ths steps below will fix issues with the A Buttons (Menu/Jump), Trackpads and Grip Sensitivity. These changes will make Stormland with Index Controllers much more enjoyable.
 
 ### How to Fix the A Buttons and Trackpads for Stormland - Valve Index (Knuckles) Controllers: 
 
@@ -182,6 +180,7 @@ The Trackpad sections should look like this:
 Values for both Trackpads should be:
 
 * Trackpad Click = None
+
 * Touch = Thumbrest touch
 
 1. Click the check mark to save your change.
