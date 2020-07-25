@@ -4,7 +4,7 @@ title: Oculus Stormland on HTC Vive With Index Knuckles
 subtitle: Get more out of your Vive with Revive!
 
 ---
-<img src="../assets/img/Stormland.png" class="img-responsive" alt="Stormland on Vive Rocks!" width="1000">
+<img src="../assets/img/Stormland.png" class="img-responsive" alt="Stormland on HTC Vive Rocks!" width="1000">
  
 Are you an HTC Vive owner looking for new games? Tired of seeing the same old SteamVR titles month after month? Looking for quality entertainment but not sure where to find it? 
 
@@ -31,12 +31,15 @@ As much fun as it is, Revive is not officially supported or endorsed by Oculus s
 * [BaseStation ver 1.0](https://www.vive.com/eu/accessory/base-station/)
 * 1TB Hard Disk Drive - 7200 RPM SATA
 
+---
+
 *Half-Life Alyx*
 <img src="../assets/img/Half-Life-Alyx-Task-Manager.Steam.png" class="img-responsive" alt="Half-Life-Alyx-Task-Manager.Steam" width="1000">
 
 *Stormland on Revive on Oculus*
 <img src="../assets/img/cpu.ram.gpu.display.stormlands.png" class="img-responsive" alt="cpu.ram.gpu.display.stormlands.png" width="1000">
 
+---
 
 #### How to Install and Configure Revive for HTC Vive:
 1.	Install [Oculus Rift S Software](https://www.oculus.com/setup/) but do not set up the headset.
@@ -51,17 +54,29 @@ As much fun as it is, Revive is not officially supported or endorsed by Oculus s
 
 For our installation we will not be setting up controllers. This is because we're not using Oculus controllers. The hardware setup step is left incomplete indefinitely. Revive must hook into the hardware interface somehow so we leave the setup incomplete at this stage.
 
+---
+
+#### How to install Revive
+
 Next we download and install the latest version of the ReviveInstaller.exe from the [LibreVR/Revive Github](https://github.com/LibreVR/Revive/releases/tag/2.1.1)
 
 Grab the one with the highest version number – v2.1.1 as of July 2020
 
 <img src="../assets/img/Revive-Github-versions.png" class="img-responsive" alt="Download the latest version of ReviveInstaller.exe" width="1000">
 
-5.	Launch Oculus and purchase [Stormland](https://www.oculus.com/experiences/rift/1360938750683878/?ranking_trace=117254459210015_1360938750683878_SKYLINEWEB_15sLveFiOUbKwuHmu).
+---
 
-6.	Start SteamVR and put on the headset.
+#### Purchase Stormland
 
-7.	Open the SteamVR dashboard and note that there is now a new button called Revive. You can click this to bring up the Revive dashboard dislpaying all your Oculus games. For now just note it’s location. 
+1.	Launch Oculus and purchase [Stormland](https://www.oculus.com/experiences/rift/1360938750683878/?ranking_trace=117254459210015_1360938750683878_SKYLINEWEB_15sLveFiOUbKwuHmu).
+
+2.	Start SteamVR and put on the headset.
+
+3.	Open the SteamVR dashboard and note that there is now a new button called Revive. You can click this to bring up the Revive dashboard dislpaying all your Oculus games. For now just note it’s location. 
+
+---
+
+#### Setup Index Controllers for Stormland in SteamVR
 
 We still need to set up the controllers. You can launch your Oculus titles using the Revive button or from the regular SteamVR menu.
 
@@ -73,6 +88,7 @@ For future refernce, you can launch Stormland from the Revive Dashboard that app
 
 You can also launch your Oculus games from the Steam menu like any other game.
 
+---
 
 ### How to Fix the A Buttons and Trackpads for Stormland - Valve Index (Knuckles) Controllers: 
 
@@ -188,6 +204,8 @@ So do it for yourself. Do it for the children. Do it for the Zuck who can clearl
 
 <img src="../assets/img/Emperor-Zuckerberg-and-his-minions.webp" class="img-responsive" alt="In the Land of the Blind the One-Eyed Man is King" width="1000">
 
+---
+
 #### Potential Issues:
 
 ##### Oculus Games Won’t Install
@@ -231,6 +249,8 @@ While you are in the settings, it is a good idea to set the new location as the 
 Now that your game file location is no longer C:\Program Files\Oculus\Software you will be able to install & play Oculus games. Woohoo! You made it! Give Stormland a try.
 Also, in case of further issues there is a Revive wiki
 If you’re really stuck or if you love Revive so much you simply must tell the developers and community, there’s a Revive Discord too.
+
+---
 
 ##### How to restart your progress in Stormland
 
