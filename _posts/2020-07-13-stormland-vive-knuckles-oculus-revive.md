@@ -265,7 +265,7 @@ If you don’t see the appdata folder you can enable it with the steps below:
 
 3.	In the next window that pops up select View and then down below in Advance Settings ensure “Show hidden files, folders and drives” is checked.
 
-<img src="../assets/img/windows-show-hidden-files.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/windows-show-hidden-files.png" class="img-responsive" alt="Stormland Rocks!" width="500">
 
 4.	Click OK
 You will now see the the appdata folder in File Explorer. Go ahead and click through it until you are at the location below:
