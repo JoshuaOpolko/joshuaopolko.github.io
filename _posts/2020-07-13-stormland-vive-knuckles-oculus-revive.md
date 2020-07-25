@@ -72,12 +72,14 @@ You can also launch your Oculus games from the Steam menu like any other game.
 
 ### How to Change Controller Bindings Valve Index (Knuckles) Controllers for Stormland: 
 
-Playing Oculus with Index Knuckles introduces some challenges. Index controllers have very different buttons and sensors than Oculus ones. This means Oculus games need a little attention to get them running beautifuly on the Knuckles. 
+Playing Oculus with Index Knuckles introduces some challenges. Index controllers have very different buttons and sensors than Oculus. 
+
+This means Oculus games need a little attention to get them running beautifuly on the Knuckles. 
 
 The two issues I've come across so far are:
-* A. The lack of a dedicated button for activating the Pause Menu
-* B. The lack of a jump button
-* C. The tendancy of the default bindings to grab your guns anytime your hand rests at your side (shockingly irritating when it happens btw)
+* The lack of a menu button
+* The lack of a jump button
+* Thumbpad brings up menu when touched (this one is surprisingly irritating unless you fix it)
 
 So into the Steam Bindings settings we go to fix this.
 
@@ -91,17 +93,22 @@ Launch SteamVR and once it's running press the System button on the Knuckles to 
 
 On the screen entitled _Change Bindings For Stormland on Oculus_ select _Stormland on Oculus_. 
 
-You can select a pre-programmed binding. A binding defines which actions are bound to which buttons.
-
-We can use the Official Binding for Revive/Index as a template and then edit it to fix the A buttons.
-
 <img src="../assets/img/Stormland_on_oculus_edit_controller_bindings.png" class="img-responsive" alt="Stormland On Oculus Edit Controller Bindings" width="1000">
 
-A.	Identify the Official Bindings section.
+You can select a pre-programmed binding. A binding defines which actions are bound to which buttons.
 
-B.	Locate "Stormland - Index Controllers - Grip Fix" and click on Activate. This will fix a surprisingly annoying bug where the Index controllers constantly grab your guns every time either hand comes anywhere near your waist. 
+There is an Official Binding for Revive/Index Binding but it does nothing to address a horrible bug with Index controllers in Stormland. 
 
-It's seriously aweful.. Always grabbing a gun when you let your hands rest by your side. If you don't fix this with the "Grip Fix" bindings you basically have to play the game while T-Posing or you're constantly grabbing your guns. 
+The bug is a result of the finger sensors and how the 'grab' function was implemented in-game. As a result, when using Index Controllers in Stormland with default Grip Settings, your hands will automatically grab your guns whenever you rest your hands by your side. 
+
+Worse than that, any time your hands go anywhere near your waist, out pop the guns and suddenly you're weilding them again. 
+
+No fun putting them back over and over and over again. So to fix this, there is a custom binding in the SteamVR Workshop.
+
+
+A.	Identify the Stormland - Index Controllers - Grip Fix Bindings section.
+
+B.	Locate "Stormland - Index Controllers - Grip Fix" and click on Activate. This will fix the Grip issue so you only grab your guns when you want to.
 
 <img src="../assets/img/stormland-fix-grip-index-controllers.png" class="img-responsive" alt="SteamVR Controller Settings" width="1000">
 
