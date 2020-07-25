@@ -198,6 +198,8 @@ Also your Trackpads will not bring up the menu now, only the Right-A button will
 
 That is somewhat similar to the Oculus setup so I use it this way but you can obviously set whatever buttons you prefer to do whatever you want.
 
+---
+
 There you have it. All set to enjoy some sweet Oculus goodness on your HTC Vive. 
 
 So do it for yourself. Do it for the children. Do it for the Zuck who can clearly see the future and wants you to be a part of it. Just look how happy it makes him when people use his stuff.
