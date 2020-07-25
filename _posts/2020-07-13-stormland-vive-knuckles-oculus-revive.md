@@ -182,23 +182,36 @@ Do it for yourself. Do it for the children. Do it for the Zuck who can clearly s
 <img src="../assets/img/Emperor-Zuckerberg-and-his-minions.webp" class="img-responsive" alt="In the Land of the Blind the One-Eyed Man is King" width="1000">
 
 #### Potential Issues:
-Oculus Games Won’t Install – as soon as I bought Stormland I started the download. The download completed but when I clicked the “Install” button nothing happened. This is what happens when your Oculus games are saved at C:\Program Files\Oculus\Software (or anywhere in the C:\Program Files\Oculus folder).
-For some reason Oculus doesn’t like it’s games to be within it’s own Program Files folder. Easy enough to change, simply put the games anywhere else, create a new folder wherever you have space and use this new folder as default location for Oculus games. 
-To set a new location for your saved games, follow the steps below:
-1.	Launch the Oculus app from the Start menu, taskbar, or desktop.
-2.	Click Settings.
-3.	Click General.
-4.	Click Edit in the Library Locations section.
 
-<img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+##### Oculus Games Won’t Install
+
+As soon as I bought Stormland I started the download. The download completed but when I clicked the “Install” button nothing happened. 
+
+This is what happens when your Oculus games are saved at the location below:
+
+C:\Program Files\Oculus\Software (or anywhere in the C:\Program Files\Oculus folder)
+
+Although it seems like the right place to save your games, for some reason Oculus doesn’t like it. 
+
+Easy enough to change, simply put the games anywhere else, create a new folder wherever you have space and use this new folder as default location for Oculus games. 
+
+To set a new location for your saved games, follow the steps below:
+
+Launch the Oculus app from the Start menu, taskbar, or desktop.
+
+1.	Click Settings.
+2.	Click General.
+3.	Click Edit in the Library Locations section.
+
+<img src="../assets/img/oculus-settings-location.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 5.	Click Add Location.
 
-<img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/oculus-add-location.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
-6.	Choose a new library location. You can use any folder you’d like, you can also create a new folder by right-clicking the background in the Select Folder window. Once created, you can select the new folder for the new location by double-clicking it and clicking Select Folder.
+6.	Choose a new library location. You can use any folder you’d like or you can create a new folder by right-clicking the background in the Select Folder window. Once created, you can select the new folder for the new location by double-clicking it and clicking Select Folder.
 
-<img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/oculus-new-folder.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 7.	Double-click your new or chosen folder and click Select Folder.
 While you are in the settings, it is a good idea to set the new location as the default From the same menu as above (Settings/General)
@@ -206,41 +219,72 @@ While you are in the settings, it is a good idea to set the new location as the 
 2.	Click the elipses menu button
 3.	Select Make Default
 
-<img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/oculus-make-default.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 Now that your game file location is no longer C:\Program Files\Oculus\Software you will be able to install & play Oculus games. Woohoo! You made it! Give Stormland a try.
 Also, in case of further issues there is a Revive wiki
 If you’re really stuck or if you love Revive so much you simply must tell the developers and community, there’s a Revive Discord too.
 
-Potential Issues:
-Issue: Can’t restart your progress - Stormland doesn’t really provide an option for restarting your progress. It saves your game locally at whatever point you’ve reached and syncs this with your cloud save. You can’t just restart the game and choose a new save. This means multiple players have to share the same progress and isn’t ideal in cases where you have multiple people that want to start their own progress. As a workaround you have to delete or move your local saves, go offline, create new ones and then go back online to sync them with the cloud saves. This effectively over-writes your previous progress. 
-Progress and preferences are kept in two files locally which are synchronized with your cloud saves. Two files track your progress and preferences. These files can be moved, copied or renamed to reset progress to start a new game.
-In case you want to restart the game or have another person start their own progress, There really isn’t a proper way to restart Stormland in-game, so that a player can start from the beginning of the game. To get around this, the local save files below can be deleted, renamed or moved. Only complete these step is you want to lose your progress and settings in Stormland.
+##### Can’t restart your progress
+
+Stormland doesn’t really provide an option for restarting your progress. 
+
+It saves your game locally at whatever point you’ve reached and syncs this with your cloud save. You can’t just restart the game and choose a new save. 
+
+This means multiple players have to share the same progress and isn’t ideal in cases where you have multiple people that want to start their own progress. 
+
+As a workaround you have to delete or move your local saves, go offline, create new ones and then go back online to sync them with the cloud saves. This effectively over-writes your previous progress. **Only do this if you want to lose your progress and start the game over.
+
+Progress and preferences are kept in two files locally which are synchronized with your cloud saves. 
+
+Two files track your progress and preferences. These files can be moved, copied or renamed to reset progress to start a new game.
+
+In case you want to restart the game or have another person start their own progress. 
+
+There really isn’t a proper way to restart Stormland in-game, so that a player can start from the beginning of the game. To get around this, the local save files below can be deleted, renamed or moved. 
+
+Only complete these step is you want to lose your progress and settings in Stormland.
+
 1.	Go offline with the computer Steam is installed on. Disable the Wifi or disconnect Ethernet – make sure you’re offline.
 2.	Launch File Explorer and go to C:\Users\your_username\AppData\Local\Oculus\AppData\139725073420658\3257792424300278\cloud\data
 3.	Delete, rename or move the two save files in this location:
-o	stormland_gamedata_071220.save
-o	stormland_userprefs.save 
-Your files and folders may contain different numbers than the examples on this page. These files can be saved if you want to keep the progress stored in them. You can always copy them back into the data folder.
+
+*	stormland_gamedata_071220.save
+*	stormland_userprefs.save 
+
+Your files and folders may have slightly different names, the numbers will be different. You can save these files somewhere on your system if you want to keep the progress stored in them. You can always copy them back into the data folder later.
+
 If you don’t see the appdata folder you can enable it with the steps below:
 1.	Launch File Explorer
 2.	In the File Explorer click View then Options and then Change Folder and Search Options
 
-<img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000"> 
+<img src="../assets/img/windows-change-view.png" class="img-responsive" alt="Stormland Rocks!" width="1000"> 
 
 3.	In the next window that pops up select View and then down below in Advance Settings ensure “Show hidden files, folders and drives” is checked.
 
-<img src="../assets/img/Oculus-Rift-S-Download-Software.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
+<img src="../assets/img/windows-show-hidden-files.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 4.	Click OK
 You will now see the the appdata folder in File Explorer. Go ahead and click through it until you are at the location below:
 C:\Users\your_username\AppData\Local\Oculus\AppData\139725073420658\3257792424300278\cloud\data
 
-1.	From there you can delete or rename the files contained in the folder. Your computer should still be offline at this point or it will simply retrieve your cloud saves and restore them to this location. To avoid this, launch Stormland while offline and begin the game. This means setting up dominant hand, etc and actually starting the level. This will create two new save and preference files. Once these have been created (you will see them again in C:\Users\your_username\AppData\Local\Oculus\AppData\139725073420658\3257792424300278\cloud\data) you can exit the game and go online again. When you next launch the game it will overwrite the cloud saves with the newly created files so your ‘progress restart’ will be replace the cloud saves. You are supposed to get a warning from Steam asking if you’d like to overwrite the cloud saves or the local saves but I did not get this alert. Instead SteamVR just loaded the new local save/pref files and used them to overwrite my cloud progress. This is what I wanted in t his case but be aware you can overwrite cloud saves easily and potentially lose your progress by following these steps.
+Again, your folder names (numbers) will likely be different from mine but the general location is the same.
+
+1.	From there you can delete or rename the files contained in the folder. 
+
+Your computer should still be offline at this point. If it's online it will download your cloud saves and restore them to this location. 
+
+To avoid this, launch Stormland while offline and start the game. This means setting up dominant hand, etc and actually starting the level. 
+
+This will create two new save and preference files. 
+
+Once these have been created (you will see them again in C:\Users\your_username\AppData\Local\Oculus\AppData\139725073420658\3257792424300278\cloud\data) you can exit the game and go online again. 
+
+When you next launch the game it will overwrite the cloud saves with the newly created files, effectively wiping out your previous progress and saving the new one. 
 
 Finally, you are all set! Fire up Stormland and experience the goodness of Oculus. It probably takes a performance hit due to Revive overhead but hopefully this isn't needed much longer. [OpenXR](https://www.khronos.org/openxr/) is here and Oculus and Facebook are both members. Other members include Amazon, Apple, Google, Intel, Nvidia, Qualcomm, Samsung, Sony, Valve, Nintendo, Nokia, Panasonic, EA, Epic Games, AMD, Huawei, Acer, Alibaba, Broadcom, Hitachi, HP, HTC, Red Hat, Unity, VMWare and [many](https://www.khronos.org/members/list) more!
 
-Thanks,
+Thanks & Enjoy!
 
 Josh
 
