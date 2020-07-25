@@ -21,7 +21,7 @@ As much fun as it is, Revive is not officially supported or endorsed by Oculus s
 
 ---
 
-#### System 
+#### Test System 
 * [Intel 8700 I7](https://ark.intel.com/content/www/us/en/ark/products/126686/intel-core-i7-8700-processor-12m-cache-up-to-4-60-ghz.html)
 * 32 GB RAM 
 * [Nvidia Geforce 1080ti](https://www.nvidia.com/en-sg/geforce/products/10series/geforce-gtx-1080-ti/)
@@ -33,6 +33,9 @@ As much fun as it is, Revive is not officially supported or endorsed by Oculus s
 
 ---
 
+For comparison my performance metrics playing Half-Life Alyx vs Stormland are below.
+
+Stormland 
 *Half-Life Alyx*
 <img src="../assets/img/Half-Life-Alyx-Task-Manager.Steam.png" class="img-responsive" alt="Half-Life-Alyx-Task-Manager.Steam" width="1000">
 
