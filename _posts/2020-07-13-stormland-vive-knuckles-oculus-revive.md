@@ -77,9 +77,9 @@ Playing Oculus with Index Knuckles introduces some challenges. Index controllers
 This means Oculus games need a little attention to get them running beautifuly on the Knuckles. 
 
 The two issues I've come across so far are:
-* The lack of a menu button
-* The lack of a jump button
-* Thumbpad brings up menu when touched (this one is surprisingly irritating unless you fix it)
+* No menu button
+* No jump button
+* Thumbpad is Menu which is horrible
 
 So into the Steam Bindings settings we go to fix this.
 
@@ -95,16 +95,9 @@ On the screen entitled _Change Bindings For Stormland on Oculus_ select _Stormla
 
 <img src="../assets/img/Stormland_on_oculus_edit_controller_bindings.png" class="img-responsive" alt="Stormland On Oculus Edit Controller Bindings" width="1000">
 
-You can select a pre-programmed binding. A binding defines which actions are bound to which buttons.
+Select a binding. A binding defines which actions are bound to which buttons.
 
-There is an Official Binding for Revive/Index Binding but it does nothing to address a horrible bug with Index controllers in Stormland. 
-
-The bug is a result of the finger sensors and how the 'grab' function was implemented in-game. As a result, when using Index Controllers in Stormland with default Grip Settings, your hands will automatically grab your guns whenever you rest your hands by your side. 
-
-Worse than that, any time your hands go anywhere near your waist, out pop the guns and suddenly you're weilding them again. 
-
-No fun putting them back over and over and over again. So to fix this, there is a custom binding in the SteamVR Workshop.
-
+There is an Official Binding for Revive/Index Binding but it doesn't fix the Grip Sensitivity problem so we will choose the Stormland - Index Controllers - Grip Fix Binding instead.
 
 A.	Identify the Stormland - Index Controllers - Grip Fix Bindings section.
 
@@ -118,7 +111,7 @@ Click Edit on your new Current Binding. This way you can manually assign the lef
 
 <img src="../assets/img/stormland-fix-grip-index-controllers-edit.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
-Once you’ve clicked that Edit button you’ll see all buttons their actions. We're here to fix the Left and Right A buttons and the Thumbpads.
+Once you’ve clicked that Edit button you’ll see all buttons their actions. We only have to fix the Left/Right A buttons and disable the trackpads.
 
 Each button can be edited by clicking the little pencil icon that appears when you point at the text in each box. Don't forget to De-Select Mirror Mode so you can assign the right and left controller buttons independently.
 
@@ -137,8 +130,8 @@ So now you know what to do. Scroll through the list until you find the Left A an
 
 
 
-We will now set the Left A button to activate the Pause Menu and the Right A to be the Jump button. The Actions you can apply to the button can be seen in the picture below:
-
+Set the Left A button to activate the Pause Menu and the Right A to be the Jump button. The Actions you can apply to the button can be seen in the picture below:
+josh til here
 <img src="../assets/img/SteamVR-Controller-Bindings-Stormland-A-Button-Assignments.png" class="img-responsive" alt="Stormland Rocks!" width="1000">
 
 Edit the button assignments for both A buttons to select the accompanying function for each. 
