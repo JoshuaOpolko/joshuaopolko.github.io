@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Oculus Stormland on HTC Vive With Index Knuckles
-subtitle: Get more out of your Vive with Revive!
+subtitle: Get more out of your Vive with Revive
 
 ---
 <img src="../assets/img/Stormland.png" class="img-responsive" alt="Stormland on HTC Vive Rocks!" width="1000">
