@@ -77,7 +77,7 @@ When you click the purchase button you'll see the following popup:
 
 "Are you sure you want to buy this app? You'll need to set up a supported controller (Oculus Touch) before you can use the app you're purchasing."
 
-This is normal since we will not be using Oculus controllers. Go ahead and click Continue to complete your purchase.
+This is fine since we will not be using Oculus controllers. Go ahead and click Continue to complete your purchase.
 
 2.	Start SteamVR and put on the headset.
 
