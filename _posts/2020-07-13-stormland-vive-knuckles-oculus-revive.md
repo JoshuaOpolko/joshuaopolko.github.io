@@ -85,7 +85,7 @@ This is normal since we will not be using Oculus controllers. Go ahead and click
 
 <img src="../assets/img/New-Revive-Button-in-SteamVR.png" class="img-responsive" alt="New Revive Button in SteamVR - Yaay!" width="1000">
 
-For future refernce, you can launch Stormland from the Revive Dashboard that appears after clicking the Revive button.
+For future reference, you can launch Stormland from the Revive Dashboard that appears after clicking the Revive button.
 
 <img src="../assets/img/revive-dashboard.png" class="img-responsive" alt="revive-dashboard" width="1000">
 
