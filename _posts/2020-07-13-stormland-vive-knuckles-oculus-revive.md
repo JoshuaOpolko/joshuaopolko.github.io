@@ -35,7 +35,6 @@ As much fun as it is, Revive is not officially supported or endorsed by Oculus s
 
 For comparison my performance metrics playing Half-Life Alyx vs Stormland are below.
 
-Stormland 
 *Half-Life Alyx*
 <img src="../assets/img/Half-Life-Alyx-Task-Manager.Steam.png" class="img-responsive" alt="Half-Life-Alyx-Task-Manager.Steam" width="1000">
 
@@ -72,6 +71,13 @@ Grab the one with the highest version number – v2.1.1 as of July 2020
 #### Purchase Stormland
 
 1.	Launch Oculus and purchase [Stormland](https://www.oculus.com/experiences/rift/1360938750683878/?ranking_trace=117254459210015_1360938750683878_SKYLINEWEB_15sLveFiOUbKwuHmu).
+When you click the purchase button you'll see the following popup: 
+
+<img src="../assets/img/oculus-you-need-to-setup-a-supported-controller.png" class="img-responsive" alt="oculus-you-need-to-setup-a-supported-controller" width="1000">
+
+Are you sure you want to buy this app? You'll need to set up a supported controller (Oculus Touch) before you can use the app you're purchasing."
+
+This is perfectly normal since we will not be using Oculus controllers. Go ahead and click Continue to complete your purchase.
 
 2.	Start SteamVR and put on the headset.
 
